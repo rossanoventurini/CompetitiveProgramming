@@ -5,12 +5,12 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Lectures schedule: Wednesday 14-16 (A1) and Friday 11-13 (C1).
-* Question time: After lectures or by appointmen
+* Lectures schedule: Wednesday 14-16 (C1) and Friday 11-13 (C1).
+* Question time: After lectures or by appointment
 
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
-The importance of these skills has been recognized by the most important software companies worldwide, which evaluate candidates in their job interviews mostly by the ability in addressing such difficult problems (e.g., see [here](http://www.geeksforgeeks.org/company-preparation/).
+The importance of these skills has been recognized by the most important software companies worldwide, which evaluate candidates in their job interviews mostly by the ability in addressing such difficult problems (e.g., see [here](http://www.geeksforgeeks.org/company-preparation/)).
 
 A natural goal is to involve the students in the intellectual pleasure of programming and problem solving, also preparing them for the most important international online contests, such as [Topcoder](https://www.topcoder.com/), [Codeforces](Codeforces), [HackerRank](https://www.hackerrank.com/), [CodeChef](https://www.codechef.com/), [Facebook Hacker Cup](https://www.facebook.com/hackercup/), [Google Code Jam](https://code.google.com/codejam/) and so on, for internships in most important companies and their interviews.
 A desirable side-effect of the course could be to organize and prepare teams of students for online contests.
@@ -56,21 +56,22 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 *   [CodeChef - Data Structures and Algorithms links](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 *   [List](http://codeforces.com/blog/entry/23054) of resources for competitive programming
 
-## Advanced (optional) material
-
-*   [Aho-Corasick String Matching Algorithm](http://www.cs.sun.ac.za/~lvzijl/courses/rw778/autappl/crous-hw2.pdf)
-*   Heavy-light Decomposition
-
 ## Lectures
 
-| Date | Lecture | References |
-| 20/09/2016 | Introduction | [Slides](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/Lez1-2-1617.pdf) Problems: [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0), [Maximum of all subarray of size k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0), [Trapping Rain Water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) |
-| 22/09/2017 | Standard Template Library (STL) | [Tutorial,](http://www.geeksforgeeks.org/the-c-standard-template-library-stl/) [STL algorithms](http://www.geeksforgeeks.org/c-magicians-stl-algorithms/) |
-| 10/11/2016 | Sorting I. | Problems: [Towers](http://codeforces.com/problemset/problem/37/A), [Little Robber Girl's Zoo](http://codeforces.com/problemset/problem/686/B), [Finding Team Member](http://codeforces.com/problemset/problem/579/B), and <span class="s1">[Megacity](http://codeforces.com/problemset/problem/424/B).</span> |
-| 15/11/2016 | Sorting II. | Problems: [Find Pair](http://codeforces.com/problemset/problem/160/C), [Two Heaps](http://codeforces.com/problemset/problem/353/B), <span style="font-family: inherit; font-size: inherit;">and </span>[Inversion Count](http://www.spoj.com/problems/INVCNT/). [Solutions](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/Sorting.zip). |
-| 17/11/2016 | (Static) Prefix sum. | Problems: [Ilya and Queries](http://codeforces.com/problemset/problem/313/B), [Alice, Bob and Chocolate](http://codeforces.com/problemset/problem/6/C), [Number of Ways](http://codeforces.com/problemset/problem/466/C?locale=en), and [Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C?locale=en). [Solutions](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/PrefixSum.zip). |
-| 24/11/2016 | Prefix sum I: Binary Indexed Tree (aka Fenwick tree) | Fenwick tree: [description](https://en.wikipedia.org/wiki/Fenwick_tree), [tutorial,](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#add)  [video](https://www.youtube.com/watch?v=CWDQJGaN1gY), and [code](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/fenwick_tree.zip). Problem: [Update the array](http://www.spoj.com/problems/UPDATEIT/). |
-| 29/11/2016 | Prefix sum II. | Problems: [Pashmak and Parmida's problem](http://codeforces.com/problemset/problem/459/D), [Nested Segments](http://codeforces.com/problemset/problem/652/D), and [Propagating tree](http://codeforces.com/problemset/problem/383/C).  [Solutions](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/Solutions_FenwickTree.zip). |
-| 06/12/2016 | Graph algorithms. | [CCLR] Chapter 22. Problems: [Fox and Names](http://codeforces.com/problemset/problem/510/C) and [Learning Languages](http://codeforces.com/problemset/problem/277/A). |
-| 07/12/2016 | Dynamic Programming I. | [CCLR] Chapter 15. Problems: [0-1 Knapsack Problem](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909), [IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), and [Woodcutters](http://codeforces.com/problemset/problem/545/C). |
-| 13/12/2016 | Dynamic Programming II. | Unweighted shortest path and unweighted longest simple path on DAG, longest increasing subsequence and largest independent set on tree. |
+## Tentative Schedule
+| Date | Lecture | References | Problems |
+| ------------- | ------------- | ------------- | ------------- |
+|  | Introduction | [Slides](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/Lez1-2-1617.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0), [Maximum of all subarray of size k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0), and [Trapping Rain Water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) |
+| | Standard Template Library (STL) | [Tutorial](http://www.geeksforgeeks.org/the-c-standard-template-library-stl/) [STL algorithms](http://www.geeksforgeeks.org/c-magicians-stl-algorithms/) |
+| | Sorting I | | [Towers](http://codeforces.com/problemset/problem/37/A?locale=en), [Little Robber Girl's Zoo](http://codeforces.com/problemset/problem/686/B?locale=en), [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en), and [Inversion Count](http://www.spoj.com/problems/INVCNT/) |
+| | Practice | | [Megacity](http://codeforces.com/problemset/problem/424/B?locale=en), [Find Pair](http://codeforces.com/problemset/problem/160/C?locale=en), and [Two Heaps](http://codeforces.com/problemset/problem/353/B?locale=en) |
+| | (Static) Prefix sum |  | [Ilya and Queries](http://codeforces.com/problemset/problem/313/B?locale=en), [Alice, Bob and Chocolate](http://codeforces.com/problemset/problem/6/C?locale=en), [Number of Ways](http://codeforces.com/problemset/problem/466/C?locale=en), and [Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C?locale=en). [Solutions](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/PrefixSum.zip). |
+| | Prefix sum I: Binary Indexed Tree (aka Fenwick tree) | Fenwick tree: [description](https://en.wikipedia.org/wiki/Fenwick_tree), [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#add), [video](https://www.youtube.com/watch?v=CWDQJGaN1gY), and [code](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/fenwick_tree.zip) | [Update the array](http://www.spoj.com/problems/UPDATEIT/) |
+| | Practice| | [Pashmak and Parmida's problem](http://codeforces.com/problemset/problem/459/D?locale=en), [Nested Segments](http://codeforces.com/problemset/problem/652/D?locale=en), and [Propagating tree](http://codeforces.com/problemset/problem/383/C?locale=en) |
+| | Graph algorithms | [CCLR] Chapter 22 | [Fox and Names](http://codeforces.com/problemset/problem/510/C?locale=en), and [Learning Languages](http://codeforces.com/problemset/problem/277/A?locale=en) |
+| | Dynamic Programming I | [CCLR] Chapter 15 |[0-1 Knapsack Problem](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909), [IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), and [Woodcutters](http://codeforces.com/problemset/problem/545/C?locale=en) |
+| | Dynamic Programming II | | Unweighted shortest path and unweighted longest simple path on DAG, longest increasing subsequence and largest independent set on tree. |
+
+## Advanced (optional) material
+*   [Aho-Corasick String Matching Algorithm](http://www.cs.sun.ac.za/~lvzijl/courses/rw778/autappl/crous-hw2.pdf)
+*   Heavy-light Decomposition of trees
