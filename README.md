@@ -7,7 +7,7 @@
 * Language: English
 * Lectures schedule: Wednesday 14-16 (C1) and Friday 11-13 (C1).
 * Question time: After lectures or by appointment
-* [Piazza](piazza.com/unipi.it/fall2017/645aa)
+* [Piazza](http://piazza.com/unipi.it/fall2017/645aa) page
 
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
