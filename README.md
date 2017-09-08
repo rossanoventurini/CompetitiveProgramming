@@ -5,9 +5,9 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Lectures schedule: Wednesday 14-16 (C1) and Friday 11-13 (C1).
+* Lectures schedule: Wednesday 14-16 (Lab I) and Friday 11-13 (C1).
 * Question time: After lectures or by appointment
-* [Piazza](http://piazza.com/unipi.it/fall2017/645aa) page
+* [Google group](https://groups.google.com/forum/#!forum/cpc1718) to disccuss solutions
 
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
@@ -68,7 +68,7 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 | | Coding: Searching and Sorting in C++ and Inversion count | | [Interesting drinks](http://codeforces.com/problemset/problem/706/B?locale=en), [Inversion Count](http://www.spoj.com/problems/INVCNT/) ([solution](Solutions.md#InversionCount)), [Find Pair](http://codeforces.com/problemset/problem/160/C?locale=en) ([solution](Solutions.md#FindPair)), and [Two Heaps](http://codeforces.com/problemset/problem/353/B?locale=en) ([solution](Solutions.md#TwoHeaps))|
 | | Prefix sum: Binary Indexed Tree (aka Fenwick tree) | Fenwick tree: [description](https://en.wikipedia.org/wiki/Fenwick_tree), [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#add), [video](https://www.youtube.com/watch?v=CWDQJGaN1gY), [visualgo](https://visualgo.net/fenwicktree), and [code](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/09/fenwick_tree.zip). [Range updates on Fenwick tree](http://petr-mitrichev.blogspot.com/2013/05/fenwick-tree-range-updates.html) (Optional). | [Ilya and Queries](http://codeforces.com/problemset/problem/313/B?locale=en) ([solution](Solutions.md#IlyaandQueries)), [Alice, Bob and Chocolate](http://codeforces.com/problemset/problem/6/C?locale=en) ([solution](Solutions.md#AliceChocolate)), [Number of Ways](http://codeforces.com/problemset/problem/466/C?locale=en) ([solution](Solutions.md#NumberWays)), [Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C?locale=en) ([solution](Solutions.md#LittleGirl)), and [Update the array](http://www.spoj.com/problems/UPDATEIT/) ([solution](Solutions.md#LittleGirl))|
 | | Coding: applications of Fenwick tree| | [Pashmak and Parmida's problem](http://codeforces.com/problemset/problem/459/D?locale=en) ([solution](Solutions.md#PashmakParmida)) and [Nested Segments](http://codeforces.com/problemset/problem/652/D?locale=en) ([solution](Solutions.md#NestedSegments)) |
-| | Graph algorithms: BFS and DFS | [CCLR] Chapter 22 | [Fox and Names](http://codeforces.com/problemset/problem/510/C?locale=en), and [Learning Languages](http://codeforces.com/problemset/problem/277/A?locale=en) |
+| | Graph algorithms: BFS and DFS | [CCLR] Chapter 22 | [Fox and Names](http://codeforces.com/problemset/problem/510/C?locale=en) and [Learning Languages](http://codeforces.com/problemset/problem/277/A?locale=en) |
 | | Dynamic Programming I | [CCLR] Chapter 15 |[0-1 Knapsack Problem](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909), [IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), and [Woodcutters](http://codeforces.com/problemset/problem/545/C?locale=en) |
 | | Dynamic Programming II | | Unweighted shortest path and unweighted longest simple path on DAG, longest increasing subsequence and largest independent set on tree. |
 

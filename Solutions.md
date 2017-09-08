@@ -50,7 +50,7 @@ $i=k/n$ and $j=((k-1)-l*n)/r]$.
 
 Sort the values and for each value keep at most 2 occurrences. Let $c$ be
 the number of the remaining values. The number of possible fourdigit integers is
-$k=(c/2)*(c-c/2)$. The assignment is done as follows:
+$k=(c/2)(c-c/2)$. The assignment is done as follows:
 
 * Half of the excluded values are assigned to 1, the other to 2.
 * Remaining values are uniformly distributed among 1 or 2 taking care of
@@ -63,7 +63,6 @@ assigning values with two occurrences to both sets.
 * [Code](/code/IlyaQueries.cpp)
 
 Use prefix sums of the array $L[0,n]$ where $L[i] = 1$ iff $s_i = s_{i+1}$.
-
 
 
 ## Alice, Bob and Chocolate <a name="AliceChocolate"></a>
@@ -102,6 +101,7 @@ we read the query $\langle l_i, r_i \rangle$, we add $1$ to $F[l_i]$ and we
 subtract $-1$ to $F[r_i+1]$. The prefix sum of $F$ up to $i$ equals the
 frequency of entry $i$. This algorithm costs only $O(q+n)$ time.
 
+
 ## Update the Array <a name="UpdateArray"></a>
 
 * [Spoj](http://www.spoj.com/problems/UPDATEIT/)
@@ -111,10 +111,12 @@ We use a Fenwick tree F. For the update $l$, $r$, $val$ we add $val$ to $F[l]$
 and we substract $val$ to $F[r+1]$. This way, the value at position $i$ is
 simply the sum from $F[0]$ to $F[i]$.
 
+
 ## Pashmak and Parmida's problem <a name="PashmakParmida"></a>
 
 * [CodeForces](http://codeforces.com/problemset/problem/459/D?locale=en)
 * [Code](/code/PashmakParmida.cpp)
+
 
 ## Nested Segments <a name="NestedSegments"></a>
 
