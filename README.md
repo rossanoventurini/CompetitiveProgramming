@@ -60,11 +60,13 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 *   [List](http://codeforces.com/blog/entry/23054) of resources for competitive programming
 
 ## Lectures
-
-## Tentative Schedule
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-|  | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0), [Maximum of all subarray of size k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0), and [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) |
+| 10/09/2017 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0), [Maximum of all subarray of size k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0), and [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) |
+
+## Tentative Schedule
+| | Lecture | References | Problems |
+| ------------- | ------------- | ------------- | ------------- |
 | | Standard Template Library (STL) | [Tutorial](http://www.geeksforgeeks.org/the-c-standard-template-library-stl/) and [STL algorithms](http://www.geeksforgeeks.org/c-magicians-stl-algorithms/) |
 | | Searching and Sorting: Binary Search, QuickSort, and MergeSort| [CCLR] Chapters 2.3 and 7 | [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers)), [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en) ([solution](Solutions.md#FindingTeamMember)), and [Megacity](http://codeforces.com/problemset/problem/424/B?locale=en) ([solution](Solutions.md#Megacity)) |
 | | Coding: Searching and Sorting in C++ and Inversion count | | [Interesting drinks](http://codeforces.com/problemset/problem/706/B?locale=en), [Inversion Count](http://www.spoj.com/problems/INVCNT/) ([solution](Solutions.md#InversionCount)), [Find Pair](http://codeforces.com/problemset/problem/160/C?locale=en) ([solution](Solutions.md#FindPair)), and [Two Heaps](http://codeforces.com/problemset/problem/353/B?locale=en) ([solution](Solutions.md#TwoHeaps))|
