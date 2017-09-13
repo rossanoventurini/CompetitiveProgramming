@@ -80,4 +80,4 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 
 ## Advanced (optional) material
 *   [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
-*   Heavy-light Decomposition of trees
+*   [Heavy-light Decomposition of trees](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/)
