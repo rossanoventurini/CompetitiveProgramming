@@ -63,6 +63,7 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | 20/09/2017 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0), [Maximum of all subarray of size k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0), and [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) |
+| 22/09/2017 | Standard Template Library (STL) | [Slides](/slides/STL.pdf) | |
 
 ## Tentative Schedule
 | | Lecture | References | Problems |
