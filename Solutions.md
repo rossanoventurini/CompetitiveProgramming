@@ -57,6 +57,11 @@ $k=(c/2)(c-c/2)$. The assignment is done as follows:
 assigning values with two occurrences to both sets.
 
 
+## Maximum Path Sum <a name="MaximumPathSum"></a>
+
+* [Geeks for Geeks](http://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
+* [Code](/code/MaximumPathSum.cpp)
+
 ## Ilya and Queries <a name="IlyaandQueries"></a>
 
 * [Codeforces](http://codeforces.com/problemset/problem/313/B?locale=en)
