@@ -18,6 +18,10 @@
 
 * [Code](/code/SlidingWindowMaxima.cpp)
 
+## Next Larger Elements <a name="Next"></a>
+
+* [Code](/code/NextLargerElements.cpp)
+
 ## Towers <a name="Towers"></a>
 
 * [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
