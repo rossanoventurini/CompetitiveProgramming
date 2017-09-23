@@ -1,3 +1,23 @@
+## Leaders in Array <a name="Leaders"></a>
+
+* [Code](/code/Leaders.cpp)
+
+## Missing Number <a name="Number"></a>
+
+* [Code](/code/MissingNumber.cpp)
+
+## Max-Sum Subarray <a name="Kadane"></a>
+
+* [Code](/code/Kadane.cpp)
+
+## Trapping Rain Water <a name="Water"></a>
+
+* [Code](/code/TrappingRainWater.cpp)
+
+## Sliding Window Maxima <a name="Sliding"></a>
+
+* [Code](/code/SlidingWindowMaxima.cpp)
+
 ## Towers <a name="Towers"></a>
 
 * [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
