@@ -70,6 +70,10 @@ $i=k/n$ and $j=((k-1)-l*n)/r]$.
 
 * [Code](/code/LargestEvenNumber.cpp)
 
+## Firing Employees <a name="FiringEmployees"></a>
+
+* [Code](/code/FiringEmployees.cpp)
+
 ## Is BST? <a name="IsBST"></a>
 
 * [Code](/code/IsBST.cpp)
