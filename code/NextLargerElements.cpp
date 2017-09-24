@@ -1,21 +1,54 @@
 #include <iostream>
 #include <vector>
+#include <stack>
 
 // problem: http://practice.geeksforgeeks.org/problems/next-larger-element/0
 
-void print_next_larger_elements(std::vector<int> const& vec) {
-    size_t n = vec.size();
-    for (int i = 0; i < n; ++i) {
-        int max = -1;
-        for (int j = i; j < n; ++j) {
-            if (vec[j] > vec[i]) {
-                max = vec[j];
+struct int_type {
+
+    int_type(int v)
+        : val(v)
+    {}
+
+    void operator>>(int_type x) {
+        std::cin >> x.val;
+    }
+
+    friend std::ostream& operator<<(std::ostream& out, int_type const& x) {
+        out << x.val;
+        return out;
+    }
+
+    static int_type invalid() {
+        return int_type(-1);
+    }
+
+    int val;
+};
+
+template<typename T, typename GreaterFunc>
+std::vector<T> print_next_larger_elements(std::vector<T> const& vec, GreaterFunc g) {
+
+    std::vector<T> results; // accumulate results here
+    results.reserve(vec.size());
+
+    std::stack<T> s;
+
+    for (auto it = vec.rbegin(); it != vec.rend(); ++it) {
+        auto next_greater = T::invalid();
+        while (!s.empty()) {
+            auto tos = s.top();
+            if (g(tos, *it)) {
+                next_greater = tos;
                 break;
             }
+            s.pop();
         }
-        std::cout << max << " ";
+        results.push_back(next_greater);
+        s.push(*it);
     }
-    std::cout << std::endl;
+
+    return results;
 }
 
 int main() {
@@ -23,7 +56,7 @@ int main() {
     int num_test_cases = 0;
     std::cin >> num_test_cases;
 
-    std::vector<int> vec;
+    std::vector<int_type> vec;
     for (int i = 0; i < num_test_cases; ++i) {
         int n = 0;
         std::cin >> n;
@@ -33,7 +66,18 @@ int main() {
             std::cin >> x;
             vec.push_back(x);
         }
-        print_next_larger_elements(vec);
+        auto res = print_next_larger_elements(vec,
+                       [](int_type x, int_type y) {
+                           return x.val > y.val;
+                       }
+                   );
+
+        for (auto it = res.rbegin();
+                  it != res.rend(); ++it) {
+            std::cout << *it << " ";
+        }
+        std::cout << std::endl;
+
         vec.clear();
     }
 
