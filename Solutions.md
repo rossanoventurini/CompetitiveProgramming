@@ -66,6 +66,13 @@ $i=k/n$ and $j=((k-1)-l*n)/r]$.
 
 [Possible solutions](http://www.geeksforgeeks.org/counting-inversions/)
 
+## Largest Even Number <a name="LargestEvenNumber"></a>
+
+* [Code](/code/LargestEvenNumber.cpp)
+
+## Is BST? <a name="IsBST"></a>
+
+* [Code](/code/IsBST.cpp)
 
 ## Two Heaps <a name="TwoHeaps"></a>
 
