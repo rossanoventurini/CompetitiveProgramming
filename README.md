@@ -27,8 +27,46 @@ The exam consists of two parts: Homeworks 50% - Written/oral test 50%.
 
 Extra points for
 * active participation to our Google group
-* serious participation to online contests, e.g., CodeForces, TopCoder, Hacker Rank, Google Code Jam, ...
+* serious participation to online contests, e.g., CodeForces, TopCoder, Hacker
+Rank, Google Code Jam, ...
 * successful interview with a big company
+
+For full marks in the "Homeworks" part of the exam you must solve all the
+problems.
+I'll check your solutions by reading the code and their descriptions and by
+submitting them to the problems' sites. I should be able to submit any solution
+without any change.
+**A solution that doesn't pass the tests (for any reason) will be considered
+wrong!**
+
+Please create a [github](http://github.com) repository to collect all your
+solutions and their descriptions.
+The repository can be either private or public. In both cases I should be able
+to access it.
+Please send me a link to your repository and keep the repository updated. I
+should be able to monitor your progresses.
+
+The quality of your code will be evaluated. As your style will improve a lot
+with practice, I'll evaluate only the quality of the last submitted solutions.
+
+### How to solve a problem
+
+* Read carefully the description of the problem.
+* Make sure you understand the problem by checking the examples.
+* Design a first trivial solution.
+* Think about a more efficient solution. The use of some running examples
+usually helps a lot in finding a better solution.
+If your are not able to find such solution, try to find some hints by
+discussing with other students, by asking questions on the group, by looking at
+the solution in our Web page, or by searching on internet. This is perfectly
+fine for the first problems and for most difficult ones. In any case, make sure
+you really understand the solution and the properties it is exploiting! Always
+compare your solution with existing ones.
+* Write a brief description of your solution in English. Provide an analysis of
+its time and space complexity.
+* Implement your own solution in C++.
+* Submit your implementation to the problem's site. Fix it until it passes all
+the tests.
 
 ## Background <a name="Background"></a>
 If you wish to refresh your mind on basic Algorithms and Data Structures, I suggest you to look at the well-known book [Introduction to Algorithms, 3rd Edition](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11866) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.
