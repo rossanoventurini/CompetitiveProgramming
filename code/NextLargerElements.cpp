@@ -14,7 +14,7 @@ struct int_type {
         std::cin >> x.val;
     }
 
-    friend std::ostream& operator<<(std::ostream& out, int_type const& x) {
+    friend std::ostream& operator<<(std::ostream& out, int_type x) {
         out << x.val;
         return out;
     }
