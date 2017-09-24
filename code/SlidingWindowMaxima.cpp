@@ -1,22 +1,31 @@
 #include <iostream>
 #include <vector>
+#include <deque>
 
 // problem: http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
+template<typename T>
+std::vector<T> sliding_window_maximum(std::vector<T> const& A, int k) {
+	std::deque<int>  Q; // Q will store positions not values
+  std::vector<T> maxs;
+  maxs.reserve(A.size()-k+1);
 
-void print_sliding_window_maxima(std::vector<int> const& vec, int k) {
-    for (int i = 0; i < vec.size() - k + 1; ++i) {
-        int max = vec[i];
-        for (int j = 0; j < k; ++j) {
-            if (vec[i + j] > max) {
-                max = vec[i + j];
-            }
-        }
-        std::cout << max << " ";
-    }
-    std::cout << std::endl;
+  for (int i = 0 ; i < A.size(); ++i) {
+    // Removes from front elements which are no longer in the window
+    while ( (!Q.empty()) && Q.front() <= i-k)
+        Q.pop_front();
+    // Removes from back elements which are no longer useful, i.e., no greater than the current element
+    while ( (!Q.empty()) && A[i] >= A[Q.back()])
+        Q.pop_back();
+    Q.push_back(i);
+    if(i >= k-1)
+      maxs.push_back(A[Q.front()]);
+  }
+
+	return maxs;
 }
 
 int main() {
+    std::ios_base::sync_with_stdio(false);
 
     int num_test_cases = 0;
     std::cin >> num_test_cases;
@@ -33,7 +42,11 @@ int main() {
             std::cin >> x;
             vec.push_back(x);
         }
-        print_sliding_window_maxima(vec, k);
+        auto res = sliding_window_maximum(vec, k);
+        for(auto &x: res)
+          std::cout << x << " ";
+        std::cout << std::endl;
+
         vec.clear();
     }
 
