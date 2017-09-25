@@ -20,11 +20,12 @@ int main() {
         for(auto &c : str) {
             int c_id = c - '0';
             occs[c_id]++;
-            if (!(c_id&1))  // c_id is even
-                min_even = std::min(c_id, min_even);
-            else
-                min_odd = std::min(c_id, min_odd);
         }
+
+        for(int i = 8; i >= 0; i-=2)
+            if(occs[i]>0) min_even = i;
+        for(int i = 9; i >= 0; i-=2)
+            if(occs[i]>0) min_odd = i;
 
         if(min_even > min_odd) occs[min_even]--;
         for(int i = 9; i >= 0; --i)
