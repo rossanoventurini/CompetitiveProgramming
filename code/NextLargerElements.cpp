@@ -27,7 +27,7 @@ struct int_type {
 };
 
 template<typename T, typename GreaterFunc>
-std::vector<T> print_next_larger_elements(std::vector<T> const& vec, GreaterFunc g) {
+std::vector<T> next_larger_elements(std::vector<T> const& vec, GreaterFunc g) {
 
     std::vector<T> results; // accumulate results here
     results.reserve(vec.size());
@@ -66,7 +66,7 @@ int main() {
             std::cin >> x;
             vec.push_back(x);
         }
-        auto res = print_next_larger_elements(vec,
+        auto res = next_larger_elements(vec,
                        [](int_type x, int_type y) {
                            return x.val > y.val;
                        }
