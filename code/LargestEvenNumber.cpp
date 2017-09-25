@@ -1,32 +1,9 @@
 #include <iostream>
 #include <string>
-#include <algorithm> // for std::sort
-#include <cstring>   // for memmove
+#include <vector>
+
 
 // problem: http://practice.geeksforgeeks.org/problems/largest-even-number/0
-
-void largest_even_number(std::string& str) {
-    // ASCII codes for '0' to '9' span a consecutive range ([48..57])
-    std::sort(str.begin(), str.end(),
-        [](char x, char y) {
-            return x > y;
-        }
-    );
-
-    // determine the position of the smallest even number (if present)
-    uint64_t i = str.size() - 1;
-    while (str[i] % 2) {
-        if (!i) break;
-        --i;
-    }
-
-    if (str[i] % 2 == 0) { // could not contain any even number
-        char x = str[i];
-        // shift left by 1
-        memmove(&str[i], &str[i + 1], str.size() - i - 1);
-        str.back() = x;
-    }
-}
 
 int main() {
 
@@ -35,9 +12,27 @@ int main() {
 
     std::string str;
     for (int i = 0; i < num_test_cases; ++i) {
+        std::vector<uint32_t> occs(10,0);
         std::cin >> str;
-        largest_even_number(str);
-        std::cout << str << std::endl;
+
+        int min_even = 10;
+        int min_odd = 11;
+        for(auto &c : str) {
+            int c_id = c - '0';
+            occs[c_id]++;
+            if (!(c_id&1))  // c_id is even
+                min_even = std::min(c_id, min_even);
+            else
+                min_odd = std::min(c_id, min_odd);
+        }
+
+        if(min_even > min_odd) occs[min_even]--;
+        for(int i = 9; i >= 0; --i)
+            for(int j = 0; j < occs[i]; ++j)
+                std::cout << i;
+        if(min_even > min_odd && min_even != 10) std::cout << min_even;
+
+        std::cout << std::endl;
         str.clear();
     }
 
