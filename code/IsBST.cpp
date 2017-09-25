@@ -22,16 +22,33 @@ struct Node {
 
 
 // problem: http://practice.geeksforgeeks.org/problems/check-for-bst/1
+std::pair<int,int> min_max_subtree(Node* root, bool* res) {
 
-#include <climits> // for INT_MIN and INT_MAX
+    bool l = true;
+    bool r = true;
+    int curr_min = root->data;
+    int curr_max = root->data;
 
-bool check(Node* root, int min, int max) {
-    if (!root) return true; // root is a leaf
-    if (root->data < min or root->data > max) return false;
-    return check(root->left, min, root->data - 1) and
-           check(root->right, root->data + 1, max);
+    if (root->left) {
+        auto left = min_max_subtree(root->left, &l);
+        if (left.second > root->data) l = false;
+        curr_min = std::min(curr_min, left.first);
+        curr_max = std::max(curr_max, left.second);
+    }
+    if (root->right) {
+        auto right = min_max_subtree(root->right, &r);
+        if (right.first < root->data) r = false;
+        curr_min = std::min(curr_min, right.first);
+        curr_max = std::max(curr_max, right.second);
+    }
+
+    *res = l&&r;
+    return std::make_pair(curr_min, curr_max);
 }
 
 bool isBST(Node* root) {
-    return check(root, INT_MIN, INT_MAX);
+    if(!root) return true;
+    bool res = true;
+    auto p = min_max_subtree(root, &res);
+    return res;
 }
