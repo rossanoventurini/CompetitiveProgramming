@@ -23,7 +23,6 @@ struct Node {
 
 // problem: http://practice.geeksforgeeks.org/problems/check-for-bst/1
 std::pair<int,int> min_max_subtree(Node* root, bool* res) {
-
     bool l = true;
     bool r = true;
     int curr_min = root->data;
