@@ -23,25 +23,15 @@ struct Node {
 
 // problem: http://practice.geeksforgeeks.org/problems/check-for-bst/1
 
-bool isBST(Node* root) {
+#include <climits> // for INT_MIN and INT_MAX
 
+bool check(Node* root, int min, int max) {
     if (!root) return true; // root is a leaf
-    bool l = true;
-    bool r = true;
+    if (root->data < min or root->data > max) return false;
+    return check(root->left, min, root->data - 1) and
+           check(root->right, root->data + 1, max);
+}
 
-    if (root->left) {
-        Node* left = root->left;
-        if ((root->data < left->data) or
-            (left->right and left->right->data > root->data)) return false;
-        l = isBST(root->left);
-    }
-
-    if (root->right) {
-        Node* right = root->right;
-        if ((root->data > right->data) or
-            (right->left and right->left->data < root->data)) return false;
-        r = isBST(root->right);
-    }
-
-    return l && r;
+bool isBST(Node* root) {
+    return check(root, INT_MIN, INT_MAX);
 }
