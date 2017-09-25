@@ -14,8 +14,9 @@
 
 * [Code](/code/TrappingRainWater.cpp)
 
-## Sliding Window Maxima <a name="Sliding"></a>
+## Sliding Window Maximum <a name="Sliding"></a>
 
+* [Description of the solution](/notes/lecture2.pdf)
 * [Code](/code/SlidingWindowMaxima.cpp)
 
 ## Next Larger Elements <a name="Next"></a>
