@@ -79,6 +79,10 @@ $i=k/n$ and $j=((k-1)-l*n)/r]$.
 
 * [Code](/code/IsBST.cpp)
 
+## Preorder Traversal of BST <a name="PreorderTraversal"></a>
+
+* [Code](/code/PreorderTraversal.cpp)
+
 ## Two Heaps <a name="TwoHeaps"></a>
 
 * [Codeforces](http://codeforces.com/problemset/problem/353/B?locale=en)
