@@ -128,6 +128,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | | Dynamic Programming II | | Unweighted shortest path and unweighted longest simple path on DAG, longest increasing subsequence and largest independent set on tree. |
 
 ## Advanced (optional) material
+* [MO’s Algorithm](https://blog.anudeep2011.com/mos-algorithm/)
 * [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
-* [Heavy-light Decomposition of trees](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
+* [Heavy-light Decomposition of trees](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [here](http://wcipeg.com/wiki/Heavy-light_decomposition) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [Centroid Decomposition of trees](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/)
