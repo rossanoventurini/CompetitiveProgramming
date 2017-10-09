@@ -5,12 +5,18 @@
 
 // problem: http://practice.geeksforgeeks.org/problems/firing-employees/0
 
-bool is_prime(int x) {
-    int n = (int) sqrt(x);
-    for (int f = 2; f <= n; ++f) {
-        if (x % f == 0) return false;
+/* Marks the prime numbers up to n with Sieve of Eratosthenes http://www.geeksforgeeks.org/sieve-of-eratosthenes/ */
+std::vector<bool> generate_primes(size_t n) {
+    std::vector<bool> primes(n, true);
+    for(uint64_t i = 2; i <= (uint64_t) sqrt(n); ++i) {
+        if (primes[i]) {
+            uint64_t isquare = i*i;
+            for(uint64_t j = isquare; j < n; j+=i)
+                primes[j] = false;
+        }
     }
-    return true;
+
+    return primes;
 }
 
 int num_fired_employees(std::vector<int> const& vec) {
@@ -38,9 +44,10 @@ int num_fired_employees(std::vector<int> const& vec) {
         }
     }
 
+    auto primes = generate_primes(2*(n+1));
     int fired_employees = 0;
     for (int i = 1; i <= n; ++i) {
-        if (seniors[i] and is_prime(seniors[i] + i)) {
+        if (seniors[i] and primes[seniors[i] + i]) {
             ++fired_employees;
         }
     }
