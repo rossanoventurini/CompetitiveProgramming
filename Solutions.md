@@ -3,36 +3,42 @@
 
 * [Code](/code/Leaders.cpp)
 
-<a name="Number">## Missing Number</a>
+<a name="Number"></a>
+## Missing Number
 
 * [Code](/code/MissingNumber.cpp)
 
-## Max-Sum Subarray <a name="Kadane"></a>
+ <a name="Kadane"></a>
+## Max-Sum Subarray
 
 * [Code](/code/Kadane.cpp)
 
-## Trapping Rain Water <a name="Water"></a>
+ <a name="Water"></a>
+## Trapping Rain Water
 
 * [Code](/code/TrappingRainWater.cpp)
 
-## Sliding Window Maximum <a name="Sliding"></a>
+ <a name="Sliding"></a>
+## Sliding Window Maximum
 
 * [Description of the solution](/notes/lecture2.pdf)
 * [Code](/code/SlidingWindowMaxima.cpp)
 
-## Next Larger Elements <a name="Next"></a>
+ <a name="Next"></a>
+## Next Larger Elements
 
 * [Code](/code/NextLargerElements.cpp)
 
-## Towers <a name="Towers"></a>
+<a name="Towers"></a>
+## Towers
 
 * [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
 * [Code](/code/Towers.cpp)
 
 Easy: sort and compute the number of distinct lengths.
 
-
-## Finding Team Member <a name="FindingTeamMember"></a>
+<a name="FindingTeamMember"></a>
+## Finding Team Member
 
 * [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
 * [Code](/code/FindingTeamMember.cpp)
@@ -41,14 +47,16 @@ Create tuple $\langle S_{i,j}, i, j \rangle$, for each pair
 $i$ and $j$ where $S_{i,j}$ is the strength of the pair. Sort them by strength
 and start selecting the pairs greedly.
 
-## Megacity <a name="Megacity"></a>
+<a name="Megacity"></a>
+## Megacity
 
 * [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
 * [Code](/code/Megacity.cpp)
 
 Sort all the locations by their distance with Tomsk and, then, select greedly to sum to at least one million.
 
-## Find Pair <a name="FindPair"></a>
+<a name="FindPair"></a>
+## Find Pair
 
 * [CodeForces](http://codeforces.com/problemset/problem/160/C?locale=en)
 * [Code](/code/FindPair.cpp)
@@ -61,30 +69,36 @@ difficult. Let $r$ be the number of keys equal to $a_i$ and $l$ be the number
 of keys smaller than $a_i$. Then, the pair is $\langle a_i, a_j \rangle$, where
 $i=k/n$ and $j=((k-1)-l*n)/r]$.
 
-## Inversion Count <a name="InversionCount"></a>
+<a name="InversionCount"></a>
+## Inversion Count
 
 * [Spoj](http://www.spoj.com/problems/INVCNT/)
 * [Code](/code/InversionCount.cpp)
 
 [Possible solutions](http://www.geeksforgeeks.org/counting-inversions/)
 
-## Largest Even Number <a name="LargestEvenNumber"></a>
+<a name="LargestEvenNumber"></a>
+## Largest Even Number
 
 * [Code](/code/LargestEvenNumber.cpp)
 
-## Firing Employees <a name="FiringEmployees"></a>
+<a name="FiringEmployees"></a>
+## Firing Employees
 
 * [Code](/code/FiringEmployees.cpp)
 
-## Is BST? <a name="IsBST"></a>
+<a name="IsBST"></a>
+## Is BST?
 
 * [Code](/code/IsBST.cpp)
 
-## Preorder Traversal of BST <a name="PreorderTraversal"></a>
+<a name="PreorderTraversal"></a>
+## Preorder Traversal of BST
 
 * [Code](/code/PreorderTraversal.cpp)
 
-## Two Heaps <a name="TwoHeaps"></a>
+<a name="TwoHeaps"></a>
+## Two Heaps
 
 * [Codeforces](http://codeforces.com/problemset/problem/353/B?locale=en)
 * [Code](/code/TwoHeaps.cpp)
@@ -97,27 +111,28 @@ $k=(c/2)(c-c/2)$. The assignment is done as follows:
 * Remaining values are uniformly distributed among 1 or 2 taking care of
 assigning values with two occurrences to both sets.
 
-
-## Maximum Path Sum <a name="MaximumPathSum"></a>
+<a name="MaximumPathSum"></a>
+## Maximum Path Sum
 
 * [Geeks for Geeks](http://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
 * [Code](/code/MaximumPathSum.cpp)
 
-## Ilya and Queries <a name="IlyaandQueries"></a>
+<a name="IlyaandQueries"></a>
+## Ilya and Queries
 
 * [Codeforces](http://codeforces.com/problemset/problem/313/B?locale=en)
 * [Code](/code/IlyaQueries.cpp)
 
 Use prefix sums of the array $L[0,n]$ where $L[i] = 1$ iff $s_i = s_{i+1}$.
 
-
-## Alice, Bob and Chocolate <a name="AliceChocolate"></a>
+<a name="AliceChocolate"></a>
+## Alice, Bob and Chocolate
 
 * [Codeforces](http://codeforces.com/problemset/problem/6/C?locale=en)
 * [Code](/code/Chocolate.cpp)
 
-
-## Number of Ways <a name="NumberWays"></a>
+<a name="NumberWays"></a>
+## Number of Ways
 
 * [Codeforces](http://codeforces.com/problemset/problem/466/C?locale=en)
 * [Code](/code/NumberWays.cpp)
@@ -128,8 +143,8 @@ $c$ which stores in position $i$ the number suffixes of $a[i\ldots n]$ that sum
 to $\frac{S}{3}$. We then compute the sum of the prefixes of $a$.
 Every time a prefix $i$ sums to $\frac{S}{3}$, we add $c[i+2]$ to the result.
 
-
-## Little Girl and Maximum <a name="LittleGirl"></a>
+<a name="LittleGirl"></a>
+## Little Girl and Maximum
 
 * [Codeforces](http://codeforces.com/problemset/problem/276/C?locale=en)
 * [Code](/code/LittleGirl.cpp)
@@ -147,8 +162,8 @@ we read the query $\langle l_i, r_i \rangle$, we add $1$ to $F[l_i]$ and we
 subtract $-1$ to $F[r_i+1]$. The prefix sum of $F$ up to $i$ equals the
 frequency of entry $i$. This algorithm costs only $O(q+n)$ time.
 
-
-## Update the Array <a name="UpdateArray"></a>
+<a name="UpdateArray"></a>
+## Update the Array
 
 * [Spoj](http://www.spoj.com/problems/UPDATEIT/)
 * [Code](/code/UpdateArray.cpp)
@@ -157,14 +172,14 @@ We use a Fenwick tree F. For the update $l$, $r$, $val$ we add $val$ to $F[l]$
 and we substract $val$ to $F[r+1]$. This way, the value at position $i$ is
 simply the sum from $F[0]$ to $F[i]$.
 
-
-## Pashmak and Parmida's problem <a name="PashmakParmida"></a>
+<a name="PashmakParmida"></a>
+## Pashmak and Parmida's problem
 
 * [CodeForces](http://codeforces.com/problemset/problem/459/D?locale=en)
 * [Code](/code/PashmakParmida.cpp)
 
-
-## Nested Segments <a name="NestedSegments"></a>
+<a name="NestedSegments"></a>
+## Nested Segments
 
 * [CodeForces](http://codeforces.com/problemset/problem/652/D?locale=en)
 * [Code](/code/NestedSegments.cpp)
