@@ -1,8 +1,9 @@
-## Leaders in Array <a name="Leaders"></a>
+<a name="Leaders"></a>
+## Leaders in Array
 
 * [Code](/code/Leaders.cpp)
 
-## Missing Number <a name="Number"></a>
+<a name="Number">## Missing Number</a>
 
 * [Code](/code/MissingNumber.cpp)
 
