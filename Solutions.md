@@ -138,9 +138,9 @@ Use prefix sums of the array $L[0,n]$ where $L[i] = 1$ iff $s_i = s_{i+1}$.
 * [Code](/code/NumberWays.cpp)
 
 Let $S$ be the sum of the values in the array. If $3$ doesn't divide $S$, we
-conclude that the number of ways is zero. Otherwise, we compute the number array
-$c$ which stores in position $i$ the number suffixes of $a[i\ldots n]$ that sum
-to $\frac{S}{3}$. We then compute the sum of the prefixes of $a$.
+conclude that the number of ways is zero. Otherwise, we compute the array
+$C$ which stores in position $i$ the number of suffixes of $a[i\ldots n]$ that
+sum to $\frac{S}{3}$. We then compute the sum of the prefixes of $a$.
 Every time a prefix $i$ sums to $\frac{S}{3}$, we add $c[i+2]$ to the result.
 
 <a name="LittleGirl"></a>
@@ -151,10 +151,10 @@ Every time a prefix $i$ sums to $\frac{S}{3}$, we add $c[i+2]$ to the result.
 
 We need to sort the entries of the array by their access frequencies and then
 assign the largest values to the most frequently accessed slots. We could use
-an array to keep track of the frequencies of the entries. However, let $Q$ be
+an array to keep track of the frequencies of the entries. However, let $S$ be
 the sum of the length of queries size, just updating the above array would cost
-$\Theta(q+Q)$. Note that $Q$ may be $\Theta(qn)$, which may be even more than
-quadratic in $n$.
+$\Theta(q+S)$. However, $S$ may be $\Theta(qn)$ and, thus, this solution is
+quite inefficient.
 
 Thus, we need a cleaver way to compute those frequencies. The idea is to
 construct an array $F[1\ldots n]$, initially all the entries are set to $0$. If
