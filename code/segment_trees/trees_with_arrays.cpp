@@ -26,7 +26,7 @@ int main() {
         int h = ceil(log2(n));
          // left-most node id following level order
         int left_most_node = (int(1) << (h - 1)) - 1;
-        int offset = 2 * left_most_node + 1;
+        int offset = LEFT(left_most_node);
 
         // set leaves circularly
 
