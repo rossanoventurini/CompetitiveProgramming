@@ -172,29 +172,18 @@ We use a Fenwick tree F. For the update $l$, $r$, $val$ we add $val$ to $F[l]$
 and we substract $val$ to $F[r+1]$. This way, the value at position $i$ is
 simply the sum from $F[0]$ to $F[i]$.
 
-<a name="PashmakParmida"></a>
-## Pashmak and Parmida's problem
-
-* [CodeForces](http://codeforces.com/problemset/problem/459/D?locale=en)
-* [Code](/code/PashmakParmida.cpp)
-
 <a name="NestedSegments"></a>
 ## Nested Segments
 
 * [CodeForces](http://codeforces.com/problemset/problem/652/D?locale=en)
 * [Code](/code/NestedSegments.cpp)
 
-This problem is a standard two-dimensional problem that can be solved with
-one-dimensional data structure. In the same way a lot of other problems can be
-solved (for example the problem of finding the maximal weighted chain of points
-so that both coordinates of each point are greater than the coordinates of the
-predecessing point). Rewrite the problem formally: for each $i$ we should count
-the number of indices $j$ so that the following conditions hold: $a_i < a_j$
-and $b_j < a_j$. Let's sort all segments by the left ends from right to left
-and maintain some data structure (Fenwick tree is the best choice) with the
-right ends of the processed segments. To calculate the answer for the current
-segment we should simple take the prefix sum for the right end of the current
-segment. So the condition $a_i < a_j$ is hold by sorting and iterating over the
-segments from the right to the left (the first dimension of the problem). The
-condition $b_j < a_j$ is hold by taking the prefix sum in data structure (the
-second dimension).
+See lecture notes.
+
+<a name="PashmakParmida"></a>
+## Pashmak and Parmida's problem
+
+* [CodeForces](http://codeforces.com/problemset/problem/459/D?locale=en)
+* [Code](/code/PashmakParmida.cpp)
+
+See lecture notes.
