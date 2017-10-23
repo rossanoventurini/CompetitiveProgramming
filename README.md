@@ -124,9 +124,8 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | | Segment Tree: RMQ, Prefix Sums, ... | Segment Tree: [description](https://en.wikipedia.org/wiki/Segment_tree), [tutorial](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range), [video](https://www.youtube.com/watch?v=ZBHKZF5w4YU&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=22), [visualgo](https://visualgo.net/en/segmenttree?slide=1), [slides](slides/segment_trees.pdf) and [code](/code/segment_trees). Lazy propagation: [tutorial](http://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/) and [video](https://www.youtube.com/watch?v=xuoQdt5pHj0&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=23). [RMQ with BIT](http://ioinformatics.org/oi/pdf/v9_2015_39_44.pdf) (optional)| Solve the previous problem sets by replacing Fenwick tree with segment tree. [Circular RMQ](http://codeforces.com/problemset/problem/52/C)|
-| | 3-sided queries and Interval tree  | [Interval tree](http://www.geeksforgeeks.org/interval-tree/)   |   |
-| | Graph algorithms: BFS and DFS | [CCLR] Chapter 22 | [IsBipartite](http://practice.geeksforgeeks.org/problems/bipartite-graph/1) and [Learning Languages](http://codeforces.com/problemset/problem/277/A?locale=en) |
-|   | Graph algorithms: Minimum Shortest Path and Topological Sort |   | [Fox and Names](http://codeforces.com/problemset/problem/510/C?locale=en)   |
+| | Graph algorithms: BFS, DFS, and Topological Sort | [CCLR] Chapter 22 | [IsBipartite](http://practice.geeksforgeeks.org/problems/bipartite-graph/1), [Learning Languages](http://codeforces.com/problemset/problem/277/A?locale=en), and [Fox and Names](http://codeforces.com/problemset/problem/510/C?locale=en) |
+|   | Graph algorithms: Minimum Shortest Path |   |   |
 |   | Graph algorithms: Minimum Spanning Tree and Union-Find | Kruskal: [code](https://github.com/spaghetti-source/algorithm/blob/master/graph/kruskal.cc) |   |
 | | Dynamic Programming I | [CCLR] Chapter 15 |[0-1 Knapsack Problem](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909), [IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), and [Woodcutters](http://codeforces.com/problemset/problem/545/C?locale=en) |
 | | Dynamic Programming II | | Unweighted shortest path and unweighted longest simple path on DAG, longest increasing subsequence and largest independent set on tree. |
@@ -136,3 +135,4 @@ I strongly suggest you to watch the following video lectures as soon as possible
 * [Heavy-light Decomposition of trees](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [here](http://wcipeg.com/wiki/Heavy-light_decomposition) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [Centroid Decomposition of trees](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/)
 * [Merge Sort Tree](https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main)
+* [Interval tree](http://www.geeksforgeeks.org/interval-tree/)
