@@ -27,7 +27,7 @@ struct rmq_segment_tree {
             // round up to the next power of 2
             size_t m = size_t(1) << static_cast<size_t>(ceil(log2(n)));
             m_tree.resize(2 * m - 1, m_traits.invalid);
-            build(leaves, 0, m - 1, 0);
+            build(leaves, 0, n - 1, 0);
 
             // for (auto x: m_tree) {
             //     std::cout << x << " ";

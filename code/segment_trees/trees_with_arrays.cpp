@@ -24,7 +24,7 @@ int main() {
         tree.resize(tree_size);
 
         int h = ceil(log2(n));
-         // left-most node id following level order
+        // left-most internal node id
         int left_most_node = (int(1) << (h - 1)) - 1;
         int offset = LEFT(left_most_node);
 
