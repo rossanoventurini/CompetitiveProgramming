@@ -51,8 +51,8 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 
 | Type | Data | Room | Text |
 | ------------- | ------------- | ------------- | ------------- |
-| Written/Lab | 23/01/2017 | H | |
-| Written/Lab | 14/02/2017 | M | |
+| Written/Lab | 23/01/2017 9:30 | H | |
+| Written/Lab | 14/02/2017 9:30 | M | |
 
 
 ### How to solve a problem
