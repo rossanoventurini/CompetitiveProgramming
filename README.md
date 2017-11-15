@@ -49,6 +49,12 @@ should be able to monitor your progresses.
 The quality of your code will be evaluated. As your style will improve a lot
 with practice, I'll evaluate only the quality of the last submitted solutions.
 
+| Type | Data | Room | Text |
+| ------------- | ------------- | ------------- | ------------- |
+| Written/Lab | 23/01/2017 | H | |
+| Written/Lab | 14/02/2017 | M | |
+
+
 ### How to solve a problem
 
 * Read carefully the description of the problem.
@@ -121,7 +127,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 27/10/2017 | Graph algorithms: BFS, DFS, and Topological Sort | [Rossano's notes\*](notes/lecture9.pdf). [CCLR] Chapter 22 | [X total shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0), [IsBipartite](http://practice.geeksforgeeks.org/problems/bipartite-graph/1), and [Fox and names](http://codeforces.com/problemset/problem/510/C?locale=en) |
 | 08/11/2017  | Graph algorithms: Strongly Connected Components and Single-Source Shortest Path| [Rossano's notes\*](notes/lecture10.pdf). [CCLR] Chapters 22 and 23  | [Learning languages](http://codeforces.com/problemset/problem/277/A?locale=en) and [Checkposts](http://codeforces.com/problemset/problem/427/C?locale=en) |
 | 10/11/2017 | Graph algorithms: Minimum Spanning Tree (and Disjoint Sets data structures) | [Rossano's notes\*](notes/lecture11.pdf). [CCLR] Chapters 21 and 23. Kruskal: [code](https://github.com/spaghetti-source/algorithm/blob/master/graph/kruskal.cc), Disjoint Set: [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/) | [Minimum spanning tree](http://www.spoj.com/problems/MST/) and [Strange food chain](http://www.spoj.com/problems/CHAIN/) |
-| 15/11/2017 | Greedy algorithms: Activity Selection, Job sequencing, and Fractional knapsack problem| [Rossano's notes\*](notes/lecture12.pdf). [Notes by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf), [Job sequencing](http://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/). [Fractional Knapsack Problem](http://www.geeksforgeeks.org/fractional-knapsack-problem/) | [N meetings in one room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0), [Chat room](http://codeforces.com/problemset/problem/58/A?locale=en), [Magic numbers](http://codeforces.com/problemset/problem/320/A?locale=en), [Wilbur and array](http://codeforces.com/problemset/problem/596/B?locale=en), and [Alternative thinking](?locale=en)|
+| 15/11/2017 | Greedy algorithms: Activity Selection, Job sequencing, and Fractional knapsack problem| [Rossano's notes\*](notes/lecture12.pdf). [Notes by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf). [Job sequencing](http://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/). [Fractional Knapsack Problem](http://www.geeksforgeeks.org/fractional-knapsack-problem/) | [N meetings in one room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0), [Chat room](http://codeforces.com/problemset/problem/58/A?locale=en), [Magic numbers](http://codeforces.com/problemset/problem/320/A?locale=en), [Wilbur and array](http://codeforces.com/problemset/problem/596/B?locale=en), and [Alternative thinking](?locale=en)|
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
 
