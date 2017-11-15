@@ -49,7 +49,7 @@ should be able to monitor your progresses.
 The quality of your code will be evaluated. As your style will improve a lot
 with practice, I'll evaluate only the quality of the last submitted solutions.
 
-| Type | Data | Room | Text |
+| Type | Date | Room | Text |
 | ------------- | ------------- | ------------- | ------------- |
 | Written/Lab | 23/01/2017 9:30 | H | |
 | Written/Lab | 14/02/2017 9:30 | M | |
