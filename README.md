@@ -131,14 +131,14 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 17/11/2017 | Greedy Algorithms | [Rossano's notes\*](notes/lecture13.pdf). | [Lexicographically maximum subsequence](http://codeforces.com/problemset/problem/196/A?locale=en), [Woodcutters](http://codeforces.com/contest/545/problem/C?locale=en), and [Queue](http://codeforces.com/problemset/problem/141/C?locale=en) |
 | 22/11/2017 | Dynamic Programming: Fibonacci numbers, Rod cutting, Longest common subsequence, and 0/1 Knapsack | [Rossano's notes\*](notes/lecture14.pdf). [CCLR] Chapter 15. 0/1 knapsack problem: [tutorial](https://www.youtube.com/watch?v=8LusJS5-AGo) |[IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), [Longest common subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0), and [0-1 knapsack](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909) |
 | 24/11/2017 | Dynamic Programming: Longest increasing subsequence | [Rossano's notes\*](notes/lecture15.pdf) | [Longest increasing subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0), [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0), and [Edit distance](https://practice.geeksforgeeks.org/problems/edit-distance/0) |
-| 29/11/2017 | Dynamic Programming: Minimum cost path, Longest bitonic subsequence, Subset sum, Coin Change, and Largest independent set on trees| [Rossano's notes\*](notes/lecture16.pdf) | [Longest bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0), [Vertex cover](http://www.spoj.com/problems/PT07X/), and [Subset sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)  |
+| 29/11/2017 | Dynamic Programming: Minimum cost path, Longest bitonic subsequence, and Subset sum| [Rossano's notes\*](notes/lecture16-17.pdf) | [Longest bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0) and [Subset sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) |
+| 01/12/2017 | Dynamic Programming: Coin Change, Largest independent set on trees Longest Palindromic Subsequence, and Weighted Job Scheduling | [Rossano's notes\*](notes/lecture16-17.pdf) | [Vertex cover](http://www.spoj.com/problems/PT07X/) |
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exhaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
 
 ## Tentative Schedule
 | | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-| | Dynamic Programming: Maximum Sum Increasing Subsequence, Longest Palindromic Subsequence, and Weighted Job Scheduling | |  |
 
 ## Advanced (optional) material
 * [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
