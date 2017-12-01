@@ -66,13 +66,13 @@ If your are not able to find such solution, try to find some hints by
 discussing with other students, by asking questions on the group, by looking at
 the solution in our Web page, or by searching on internet. This is perfectly
 fine for the first problems and for most difficult ones. In any case, make sure
-you really understand the solution and the properties it is exploiting! Always
-compare your solution with existing ones.
+you really understand the solution and the properties it is exploiting!
 * Write a brief description of your solution in English. Provide an analysis of
 its time and space complexity.
 * Implement your own solution in C++.
 * Submit your implementation to the problem's site. Fix it until it passes all
 the tests.
+* Always compare your solution and your implementation with existing ones.
 
 ## Background <a name="Background"></a>
 If you wish to refresh your mind on basic Algorithms and Data Structures, I suggest you to look at the well-known book [Introduction to Algorithms, 3rd Edition](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11866) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.
@@ -132,7 +132,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 22/11/2017 | Dynamic Programming: Fibonacci numbers, Rod cutting, Longest common subsequence, and 0/1 Knapsack | [Rossano's notes\*](notes/lecture14.pdf). [CCLR] Chapter 15. 0/1 knapsack problem: [tutorial](https://www.youtube.com/watch?v=8LusJS5-AGo) |[IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), [Longest common subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0), and [0-1 knapsack](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909) |
 | 24/11/2017 | Dynamic Programming: Longest increasing subsequence | [Rossano's notes\*](notes/lecture15.pdf) | [Longest increasing subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0), [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0), and [Edit distance](https://practice.geeksforgeeks.org/problems/edit-distance/0) |
 | 29/11/2017 | Dynamic Programming: Minimum cost path, Longest bitonic subsequence, and Subset sum| [Rossano's notes\*](notes/lecture16-17.pdf) | [Longest bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0) and [Subset sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) |
-| 01/12/2017 | Dynamic Programming: Coin change, Largest independent set on trees, Longest palindromic subsequence, and Weighted job scheduling | [Rossano's notes\*](notes/lecture16-17.pdf) | [Vertex cover](http://www.spoj.com/problems/PT07X/), [Longest palindromic subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0), and |
+| 01/12/2017 | Dynamic Programming: Coin change, Largest independent set on trees, Longest palindromic subsequence, and Weighted job scheduling | [Rossano's notes\*](notes/lecture16-17.pdf) | [Vertex cover](http://www.spoj.com/problems/PT07X/)  and [Longest palindromic subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) |
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exhaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
 
