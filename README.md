@@ -134,15 +134,16 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 29/11/2017 | Dynamic Programming: Minimum cost path, Longest bitonic subsequence, and Subset sum| [Rossano's notes\*](notes/lecture16-17.pdf) | [Longest bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0) and [Subset sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) |
 | 01/12/2017 | Dynamic Programming: Coin change, Largest independent set on trees, Longest palindromic subsequence, and Weighted job scheduling | [Rossano's notes\*](notes/lecture16-17.pdf) | [Vertex cover](http://www.spoj.com/problems/PT07X/)  and [Longest palindromic subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) |
 | 06/12/2017 | Simulation of the exam |   | [Misha and forest](http://codeforces.com/problemset/problem/501/C?locale=en) |
-|  | String algorithms: Knuth-Morris-Pratt and Rabin-Karp | [CCLR] Chapter 32.  [Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/). [Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm). [Rabin-Karp](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm). | [Longest prefix suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0) and [Shift the string](https://www.codechef.com/problems/TASHIFT) |
-| | String algorithms: Suffix array and LCP | [ Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays) | [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/) |
+| 13/12/2017 | String algorithms: Knuth-Morris-Pratt and Rabin-Karp | Knuth-Morris-Pratt from [CLRS] Chapter 32.3. [Rabin-Karp](notes/StringMatching.pdf) from *Algorithms on strings, trees, and sequences*, D. Gusfield, Cambridge university press.  [Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/). [Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm). [Rabin-Karp](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm). | [Longest prefix suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0) and [Shift the string](https://www.codechef.com/problems/TASHIFT) |
+| 15/12/2017 | String algorithms: Suffix array and LCP | Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays) | [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/) |
 
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exhaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
 
-## Advanced (optional) material
+## Further (optional) topics
 * [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
-* [Heavy-light Decomposition of trees](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [here](http://wcipeg.com/wiki/Heavy-light_decomposition) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [Centroid Decomposition of trees](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/)
-* [Merge Sort Tree](https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main)
+* Heavy-light Decomposition of trees: [here](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [here](http://wcipeg.com/wiki/Heavy-light_decomposition) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [Interval tree](http://www.geeksforgeeks.org/interval-tree/)
+* [Merge Sort Tree](https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main)
+* Manacher's Algorithm: [here](https://en.wikipedia.org/wiki/Longest_palindromic_substring) and [here](https://articles.leetcode.com/longest-palindromic-substring-part-ii/)
