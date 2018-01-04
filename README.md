@@ -52,6 +52,7 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Type | Date | Room | Text |
 | ------------- | ------------- | ------------- | ------------- |
 | Written/Lab | 23/01/2018 9:30 | H | |
+| Oral   | 30/01/2018 14:30  | My office |  |
 | Written/Lab | 14/02/2018 9:30 | M | |
 
 
@@ -135,8 +136,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 01/12/2017 | Dynamic Programming: Coin change, Largest independent set on trees, Longest palindromic subsequence, and Weighted job scheduling | [Rossano's notes\*](notes/lecture16-17.pdf) | [Vertex cover](http://www.spoj.com/problems/PT07X/)  and [Longest palindromic subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) |
 | 06/12/2017 | Simulation of the exam |   | [Misha and forest](http://codeforces.com/problemset/problem/501/C?locale=en) |
 | 13/12/2017 | String algorithms: Knuth-Morris-Pratt and Rabin-Karp | Knuth-Morris-Pratt from [CLRS] Chapter 32.3. [Rabin-Karp](notes/StringMatching.pdf) from *Algorithms on strings, trees, and sequences*, D. Gusfield, Cambridge university press.  [Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/). [Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm). [Rabin-Karp](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm). | [Longest prefix suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0) and [Shift the string](https://www.codechef.com/problems/TASHIFT) |
-| 15/12/2017 | String algorithms: Suffix array and LCP | Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays) | [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/) |
-
+| 15/12/2017 | String algorithms: Suffix array and LCP | Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays). [LCP array](http://www.geeksforgeeks.org/%C2%AD%C2%ADkasais-algorithm-for-construction-of-lcp-array-from-suffix-array/).| [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/) |
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exhaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
 
