@@ -53,7 +53,7 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | ------------- | ------------- | ------------- | ------------- |
 | Written/Lab | 23/01/2018 9:30 | H | [Text](Exams/Text23012018.pdf) [TestSet](Exams/TestSet23012018.zip) [Solution](Exams/Solution23012018.cpp) |
 | Oral   | 30/01/2018 14:30  | My office |  |
-| Written/Lab | 14/02/2018 9:30 | M | |
+| Written/Lab | 14/02/2018 9:30 | M | [Text](Exams/Text14022018.pdf) [TestSet](Exams/TestSet14022018.zip) [Quadratic solution](Exams/Solution14022018_slow.cpp)|
 
 
 ### How to solve a problem
