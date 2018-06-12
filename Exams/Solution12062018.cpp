@@ -29,7 +29,7 @@ int main() {
             L[i] = L[i-1] + 1;
     }
 
-    for(int32_t i = n-1; i >= 0; --i) {
+    for(int32_t i = n-2; i >= 0; --i) {
         if (A[i] < A[i+1])
             R[i] = R[i+1] + 1;
     }
