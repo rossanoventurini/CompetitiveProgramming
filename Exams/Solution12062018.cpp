@@ -21,6 +21,12 @@ int main() {
         A.push_back(x);
     }
 
+    if(n == 1) {
+        std::cout << n << std::endl;
+        return 0;
+    }
+
+
     std::vector<uint64_t> L(n, 1);
     std::vector<uint64_t> R(n, 1);
 
