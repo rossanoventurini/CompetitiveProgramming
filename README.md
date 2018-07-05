@@ -56,7 +56,7 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 14/02/2018 9:30 | M | [Text](Exams/Text14022018.pdf), [TestSet](Exams/TestSet14022018.zip), and [Quadratic solution](Exams/Solution14022018_slow.cpp)|
 | Oral   | 21/02/2018 14:30  | My office |  |
 | Written/Lab | 12/06/2018 14:00 | H |  [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
-| Written/Lab | 06/07/2018 9:30 | I | |
+| Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf), [TestSet](Exams/TestSet06072018.zip), and [Solution](Exams/Solution06072018.cpp) |
 | Written/Lab | 23/07/2018 9:30 | I | |
 
 
