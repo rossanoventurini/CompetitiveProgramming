@@ -21,7 +21,6 @@ The course will provide the opportunity of
 * improving problem solving and programming skills;
 * getting in touch with some big companies for internships, scholarships, or thesis proposals.
 
-
 ## Exam
 The exam consists of two parts: Homeworks 50% - Written/oral test 50%.
 
