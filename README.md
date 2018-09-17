@@ -5,7 +5,7 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Lectures schedule: Wednesday 16-18 (X1) and Friday 14-16 (X2).
+* Lectures schedule: Monday 16-18 (X1) and Tuesday 14-16 (X2).
 * Question time: After lectures or by appointment
 * [Google group](https://groups.google.com/forum/#!forum/cpc1718) to discuss solutions
 
@@ -119,7 +119,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | 17/09/2018 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
-| 18/09/2017 | Solutions of Trapping rain water and Sliding window maximum | [Rossano's notes*](/notes/lecture2.pdf) | [Next larger element](http://practice.geeksforgeeks.org/problems/next-larger-element/0) ([solution](Solutions.md#Next)), [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers)), and [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en) ([solution](Solutions.md#FindingTeamMember))|
+| 18/09/2018 | Solutions of Trapping rain water and Sliding window maximum | [Rossano's notes*](/notes/lecture2.pdf) | [Next larger element](http://practice.geeksforgeeks.org/problems/next-larger-element/0) ([solution](Solutions.md#Next)), [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers)), and [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en) ([solution](Solutions.md#FindingTeamMember))|
 
 ## Last year lectures
 | Date | Lecture | References | Problems |
