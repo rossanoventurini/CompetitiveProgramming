@@ -9,6 +9,8 @@
 * Question time: After lectures or by appointment
 * [Google group](https://groups.google.com/forum/#!forum/cpc1718) to discuss solutions
 
+[Doodle](https://doodle.com/poll/9bh6ini4mx24m8wq) to find possible free slots. Please fill as soon as possible.
+
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
 The importance of these skills has been recognized by the most important software companies worldwide, which evaluate candidates in their job interviews mostly by the ability in addressing such difficult problems (e.g., see [here](http://www.geeksforgeeks.org/company-preparation/)).
