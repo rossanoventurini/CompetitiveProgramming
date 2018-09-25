@@ -5,11 +5,9 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Lectures schedule: Monday 16-18 (X1) and Tuesday 14-16 (X2).
+* Lectures schedule: Monday 16-18 (C) and Tuesday 14-16 (Lab-I).
 * Question time: After lectures or by appointment
 * [Google group](https://groups.google.com/forum/#!forum/cpc1718) to discuss solutions
-
-[Doodle](https://doodle.com/poll/9bh6ini4mx24m8wq) to find possible free slots. Please fill as soon as possible.
 
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
