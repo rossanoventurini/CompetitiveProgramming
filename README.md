@@ -150,7 +150,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 
 ## Further (optional) topics
 * [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
-* [Centroid Decomposition of trees](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/)
+* Centroid Decomposition of trees: [here](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree), [here](https://www.geeksforgeeks.org/centroid-decomposition-of-tree/), and [here](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/)
 * Heavy-light Decomposition of trees: [here](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/), [here](http://wcipeg.com/wiki/Heavy-light_decomposition) and [here](https://blog.anudeep2011.com/heavy-light-decomposition/)
 * [Interval tree](http://www.geeksforgeeks.org/interval-tree/)
 * [Merge Sort Tree](https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main)
