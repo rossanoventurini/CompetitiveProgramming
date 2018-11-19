@@ -139,7 +139,6 @@ I strongly suggest you to watch the following video lectures as soon as possible
 ## Last year lectures
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-
 | 22/11/2017 | Dynamic Programming: Fibonacci numbers, Rod cutting, Longest common subsequence, and 0/1 Knapsack | [Rossano's notes\*](notes/lecture14.pdf). [CCLR] Chapter 15. 0/1 knapsack problem: [tutorial](https://www.youtube.com/watch?v=8LusJS5-AGo) |[IWGBS - 0110SS](http://www.spoj.com/problems/IWGBS/), [Longest common subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0), and [0-1 knapsack](http://www.practice.geeksforgeeks.org/problem-page.php?pid=909) |
 | 24/11/2017 | Dynamic Programming: Longest increasing subsequence | [Rossano's notes\*](notes/lecture15.pdf) | [Longest increasing subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0), [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0), and [Edit distance](https://practice.geeksforgeeks.org/problems/edit-distance/0) |
 | 29/11/2017 | Dynamic Programming: Minimum cost path, Longest bitonic subsequence, and Subset sum| [Rossano's notes\*](notes/lecture16-17.pdf) | [Longest bitonic subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0) and [Subset sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) |
