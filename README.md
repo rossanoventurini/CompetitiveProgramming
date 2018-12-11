@@ -151,6 +151,10 @@ I strongly suggest you to watch the following video lectures as soon as possible
 
 ## Further (optional) topics
 * [Aho-Corasick String Matching Algorithm](https://pdfs.semanticscholar.org/3547/ac839d02f6efe3f6f76a8289738a22528442.pdf)
+* [Convex Hull](jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
 * [Interval tree](http://www.geeksforgeeks.org/interval-tree/)
 * [Merge Sort Tree](https://www.commonlounge.com/discussion/d871499b49e443259cfbea9b16f9b958/main)
 * Manacher's Algorithm: [here](https://en.wikipedia.org/wiki/Longest_palindromic_substring) and [here](https://articles.leetcode.com/longest-palindromic-substring-part-ii/)
+* [Maximum flow](http://jeffe.cs.illinois.edu/teaching/algorithms/all-optimization.pdf)
+* [Splay trees](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/16-scapegoat-splay.pdf)
+* [Sweep line algorithm](http://www.cs.tufts.edu/comp/163/notes05/seg_intersection_handout.pdf)
