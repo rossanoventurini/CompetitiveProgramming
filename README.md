@@ -56,7 +56,9 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
 | Written/Lab | 14/01/2019 14:30 | H | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
 | Written/Lab | 04/02/2019 14:00 | H | |
-| Oral | 11/02/2019 14:30 | My office | | 
+| Written/Lab | 24/06/2019 14:00 | I | |
+| Written/Lab | 12/07/2019 14:00 | I | |
+| Written/Lab | 29/07/2019 14:00 | I | |
 
 ### How to solve a problem
 
