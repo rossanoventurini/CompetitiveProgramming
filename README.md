@@ -4,7 +4,7 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Lectures schedule: Monday 16-18 (C) and Tuesday 14-16 (Lab-I).
+* Lectures schedule: Monday 16-18 (N1) and Tuesday 14-16 (Lab-I).
 * Question time: After lectures or by appointment
 * [Google group](https://groups.google.com/forum/#!forum/cpc1718) to discuss solutions
 
