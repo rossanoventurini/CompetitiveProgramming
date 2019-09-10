@@ -1,7 +1,6 @@
 # Competitive Programming and Contests
 
 * Teacher: [Rossano Venturini](http://pages.di.unipi.it/rossano)
-* Teaching assistant: [Giulio Ermanno Pibiri](http://pages.di.unipi.it/pibiri)
 * CFU: 6
 * Period: First semester
 * Language: English
@@ -55,10 +54,6 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 12/06/2018 14:00 | H |  [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
 | Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
 | Written/Lab | 14/01/2019 14:30 | H | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
-| Written/Lab | 04/02/2019 14:00 | H | |
-| Written/Lab | 24/06/2019 14:00 | I | |
-| Written/Lab | 12/07/2019 14:00 | I | |
-| Written/Lab | 29/07/2019 14:00 | I | |
 
 ### How to solve a problem
 
