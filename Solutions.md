@@ -40,7 +40,7 @@ Easy: sort and compute the number of distinct lengths.
 <a name="FindingTeamMember"></a>
 ## Finding Team Member
 
-* [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
+* [Codeforces](http://codeforces.com/problemset/problem/579/B?locale=en)
 * [Code](/code/FindingTeamMember.cpp)
 
 Create tuple $\langle S_{i,j}, i, j \rangle$, for each pair
@@ -50,7 +50,7 @@ and start selecting the pairs greedly.
 <a name="Megacity"></a>
 ## Megacity
 
-* [Codeforces](http://codeforces.com/problemset/problem/37/A?locale=en)
+* [Codeforces](http://codeforces.com/problemset/problem/424/B?locale=en)
 * [Code](/code/Megacity.cpp)
 
 Sort all the locations by their distance with Tomsk and, then, select greedly to sum to at least one million.
