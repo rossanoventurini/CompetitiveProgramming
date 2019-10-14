@@ -55,6 +55,7 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 12/06/2018 14:00 | H |  [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
 | Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
 | Written/Lab | 14/01/2019 14:30 | H | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
+| Oral Exam   |  21/01/2019 14:30 | My Office  |  |
 | Written/Lab | 04/02/2019 14:30 | H | |
 
 
