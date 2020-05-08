@@ -54,8 +54,9 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 12/06/2018 14:00 | H |  [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
 | Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
 | Written/Lab | 14/01/2019 14:00 | H | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
-| Written/Lab | 08/01/2020 14:00 | I | |
-| Written/Lab | 29/01/2020 14:00 | I | |
+| Written/Lab | 03/06/2020 14:00 | Online | |
+| Written/Lab | 23/06/2020 14:00 | Online | |
+| Written/Lab | 14/07/2020 14:00 | Online | |
 
 ### How to solve a problem
 
