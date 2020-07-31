@@ -93,7 +93,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   Algorithms, 4th Edition, Robert Sedgewick, Kevin Wayne, Addison-Wesley Professional, 2011 ([Amazon](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=pd_sim_14_2?ie=UTF8&refRID=1A2NFN935EST0ZQARB6H&dpID=51UDgHU9z9L&dpSrc=sims&preST=_AC_UL160_SR130%2C160_)) [RS]
 *   Algorithms, Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, McGraw-Hill, 2006\. ([Amazon](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)) [DPZ]
 *   Programming Challenges: The Programming Contest Training Manual, Steven S. Skiena, Miguel A. Revilla, Springer, 2003 ([Amazon](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638)) [SR]
-*   Competitive Programming 3: The New Lower Bound of Programming Contests, Steven Halim, Felix Halim, ([here](https://cpbook.net/)) [HH]
+*   Competitive Programming 4: The New Lower Bound of Programming Contests, Steven Halim, Felix Halim, ([here](https://cpbook.net/)) [HH]
 *   Competitive Programmer's Handbook, Antti Laaksonen ([here](https://cses.fi/book.html)) [L]
 *   The C++ Programming Language, 4th Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2013 ([Amazon](http://www.amazon.com/The-Programming-Language-4th-Edition/dp/0321563840/ref=dp_ob_image_bk))
 *   A tour of C++, 2nd Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2018 ([Amazon](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?keywords=a+tour+of+c%2B%2B&qid=1570692421&sr=8-1))
