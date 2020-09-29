@@ -14,6 +14,10 @@ struct int_type {
         std::cin >> x.val;
     }
 
+    friend void operator>>(std::istream& in, int_type& x) {
+        in >> x.val;
+    }
+
     friend std::ostream& operator<<(std::ostream& out, int_type x) {
         out << x.val;
         return out;
@@ -23,7 +27,7 @@ struct int_type {
         return int_type(-1);
     }
 
-    int val;
+    int64_t val;
 };
 
 template<typename T, typename GreaterFunc>
@@ -62,7 +66,7 @@ int main() {
         std::cin >> n;
         vec.reserve(n);
         for (int j = 0; j < n; ++j) {
-            int x = 0;
+            int_type x = 0;
             std::cin >> x;
             vec.push_back(x);
         }
