@@ -50,7 +50,7 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 
 ### Upcoming Exams
 
-| Type | Date | Room | Text |
+| Type | Date | Room |
 | ------------- | ------------- | ------------- |
 | Written/Lab | 02/09/2021 14:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
 
