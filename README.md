@@ -51,12 +51,12 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 ### Upcoming Exams
 
 | Type | Date | Room | Text |
-| Written/Lab | 02/09/2021 14:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | | 
+| Written/Lab | 02/09/2021 14:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
 
 ### Old Exams
 
 | Type | Date | Room | Text |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Written/Lab | 23/01/2018 9:30 |  [Text](Exams/Text23012018.pdf), [TestSet](Exams/TestSet23012018.zip), and [Solution](Exams/Solution23012018.cpp) |
 | Written/Lab | 14/02/2018 9:30 | [Text](Exams/Text14022018.pdf), [TestSet](Exams/TestSet14022018.zip), and [Quadratic solution](Exams/Solution14022018_slow.cpp)|
 | Written/Lab | 12/06/2018 14:00 | [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
