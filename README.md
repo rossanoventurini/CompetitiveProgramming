@@ -124,7 +124,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 ## Lectures
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-| 13/09/2020 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
+| 13/09/2021 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
 
 ## Last year lectures
 | Date | Lecture | References | Problems |
