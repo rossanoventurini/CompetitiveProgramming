@@ -5,7 +5,7 @@
 * Period: First semester
 * Language: English
 * Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3)
-* Lectures schedule: Monday 9-11 and Wednesday 9-11 ([Google Meet](https://meet.google.com/lookup/gwofm2ojnh)).
+* Lectures schedule: Monday 9-11 Room L1 and Wednesday 9-11 Room L1 -- ([Google Meet](https://meet.google.com/lookup/gwofm2ojnh))
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
@@ -62,8 +62,6 @@ with practice, I'll evaluate only the quality of the last submitted solutions.
 | Written/Lab | 12/06/2018 14:00 | [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
 | Written/Lab | 06/07/2018 9:30 | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
 | Written/Lab | 14/01/2019 14:00 | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
-
-
 
 ### How to solve a problem
 
