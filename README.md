@@ -21,7 +21,8 @@ The course will provide the opportunity of
 * getting in touch with some big companies for internships, scholarships, or thesis proposals.
 
 ## Exam
-The exam consists of two parts: Homeworks 50% - Written/oral test 50%.
+We will have a "written" exam in which you are asked to implement in C++ a solution for a problem.
+Then, a oral exam will test your understanding of the topics covered by the course. 
 
 Extra points for
 * active participation to our Google group
@@ -29,23 +30,16 @@ Extra points for
 Rank, Google Code Jam, ...
 * successful interview with a big company
 
-For full marks in the "Homeworks" part of the exam you must solve all the
-problems.
-I'll check your solutions by reading the code and their descriptions and by
-submitting them to the problems' sites. I should be able to submit any solution
-without any change.
-**A solution that doesn't pass the tests (for any reason) will be considered
-wrong!**
+Implementing solutions for the problems of each lecture is strongly recommended 
+to improve your problem solving skill, to practice with C++, and toprepere yourself for the 
+written exam. 
 
-Please create a [github](http://github.com) repository to collect all your
+I recommend you to create a [github](http://github.com) repository to collect all your
 solutions and their descriptions.
 The repository can be either private or public. In both cases I should be able
 to access it.
 Please send me a link to your repository and keep the repository updated. I
 should be able to monitor your progresses.
-
-The quality of your code will be evaluated. As your style will improve a lot
-with practice, I'll evaluate only the quality of the last submitted solutions.
 
 ### Upcoming Exams
 
