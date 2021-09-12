@@ -4,10 +4,9 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/c/MTU5MjcyNTI4ODY3?cjc=jvxklbm)
-* Lectures schedule: Monday 14-16 and Wednesday 11-13 ([Google Meet](https://meet.google.com/lookup/gitaxagnei)).
+* Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3)
+* Lectures schedule: Monday 9-11 Room L1 and Wednesday 9-11 Room L1 -- ([Google Meet](https://meet.google.com/lookup/gwofm2ojnh))
 * Question time: After lectures or by appointment
-* [Google group](https://groups.google.com/forum/#!forum/cpc1718) to discuss solutions
 
 ## Goals and opportunities
 The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
@@ -22,7 +21,8 @@ The course will provide the opportunity of
 * getting in touch with some big companies for internships, scholarships, or thesis proposals.
 
 ## Exam
-The exam consists of two parts: Homeworks 50% - Written/oral test 50%.
+We will have a "written" exam in which you are asked to implement in C++ a solution for a problem.
+Then, a oral exam will test your understanding of the topics covered by the course. 
 
 Extra points for
 * active participation to our Google group
@@ -30,31 +30,32 @@ Extra points for
 Rank, Google Code Jam, ...
 * successful interview with a big company
 
-For full marks in the "Homeworks" part of the exam you must solve all the
-problems.
-I'll check your solutions by reading the code and their descriptions and by
-submitting them to the problems' sites. I should be able to submit any solution
-without any change.
-**A solution that doesn't pass the tests (for any reason) will be considered
-wrong!**
+Implementing solutions for the problems of each lecture is strongly recommended 
+to improve your problem solving skill, to practice with C++, and toprepere yourself for the 
+written exam. 
 
-Please create a [github](http://github.com) repository to collect all your
+I recommend you to create a [github](http://github.com) repository to collect all your
 solutions and their descriptions.
 The repository can be either private or public. In both cases I should be able
 to access it.
 Please send me a link to your repository and keep the repository updated. I
 should be able to monitor your progresses.
 
-The quality of your code will be evaluated. As your style will improve a lot
-with practice, I'll evaluate only the quality of the last submitted solutions.
+### Upcoming Exams
 
-| Type | Date | Room | Text |
-| ------------- | ------------- | ------------- | ------------- |
-| Written/Lab | 23/01/2018 9:30 | H | [Text](Exams/Text23012018.pdf), [TestSet](Exams/TestSet23012018.zip), and [Solution](Exams/Solution23012018.cpp) |
-| Written/Lab | 14/02/2018 9:30 | M | [Text](Exams/Text14022018.pdf), [TestSet](Exams/TestSet14022018.zip), and [Quadratic solution](Exams/Solution14022018_slow.cpp)|
-| Written/Lab | 12/06/2018 14:00 | H |  [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
-| Written/Lab | 06/07/2018 9:30 | I | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
-| Written/Lab | 14/01/2019 14:00 | H | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
+| Type | Date | Room |
+| ------------- | ------------- | ------------- |
+| Written/Lab | 02/09/2021 14:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
+
+### Old Exams
+
+| Type | Date | Text |
+| ------------- | ------------- | ------------- |
+| Written/Lab | 23/01/2018 9:30 |  [Text](Exams/Text23012018.pdf), [TestSet](Exams/TestSet23012018.zip), and [Solution](Exams/Solution23012018.cpp) |
+| Written/Lab | 14/02/2018 9:30 | [Text](Exams/Text14022018.pdf), [TestSet](Exams/TestSet14022018.zip), and [Quadratic solution](Exams/Solution14022018_slow.cpp)|
+| Written/Lab | 12/06/2018 14:00 | [Text](Exams/Text12062018.pdf), [TestSet](Exams/TestSet12062018.zip), and [Solution](Exams/Solution12062018.cpp) |
+| Written/Lab | 06/07/2018 9:30 | [Text](Exams/Text06072018.pdf) and [TestSet](Exams/TestSet06072018.zip) |
+| Written/Lab | 14/01/2019 14:00 | [Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)|
 
 ### How to solve a problem
 
@@ -113,10 +114,15 @@ I strongly suggest you to watch the following video lectures as soon as possible
 * Geeks for Geeks: [Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 *   [List](http://codeforces.com/blog/entry/23054) of resources for competitive programming
 
+
 ## Lectures
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-| 14/09/2020 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
+| 13/09/2021 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
+
+## Last year lectures
+| Date | Lecture | References | Problems |
+| ------------- | ------------- | ------------- | ------------- |
 | 16/09/2020 | Solutions of Trapping rain water and Sliding window maximum | [Rossano's notes*](/notes/SlidingWindowMaximum.pdf) | [Next larger element](http://practice.geeksforgeeks.org/problems/next-larger-element/0) ([solution](Solutions.md#Next)), [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers)), and [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en) ([solution](Solutions.md#FindingTeamMember))|
 | 23/09/2020 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort | [Rossano's notes\*](notes/SearchingandSorting.pdf). [CCLR] Chapters 2.3, 7, and 8. [Binary search](http://www.geeksforgeeks.org/binary-search/). [Exponential search](http://www.geeksforgeeks.org/exponential-search/). [Interpolation search](http://www.geeksforgeeks.org/interpolation-search/) (optional) |  [Inversion count](http://www.spoj.com/problems/INVCNT/) ([solution](Solutions.md#InversionCount)) and [The Monkey and the Oiled Bamboo](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3183)|
 | 28/09/2020 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort |  | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E?locale=en) |
@@ -139,26 +145,20 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 07/12/2020 | Dynamic Programming: Edit Distance, Longest palindromic subsequence, and Weighted job scheduling | [Rossano's notes\*](notes/DynamicProgramming.md) (or [pdf](notes/DynamicProgramming.pdf)) |  [Edit distance](https://practice.geeksforgeeks.org/problems/edit-distance/0), [Vertex cover](http://www.spoj.com/problems/PT07X/),  and [Longest palindromic subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) |
 | 09/12/2020 | Greedy algorithms: Activity Selection, Job sequencing, and Fractional knapsack problem | [Rossano's notes\*](notes/Greedy1.pdf). [Notes by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf). [Job sequencing](http://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/). [Fractional Knapsack Problem](http://www.geeksforgeeks.org/fractional-knapsack-problem/) | [N meetings in one room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0),  [Magic numbers](http://codeforces.com/problemset/problem/320/A?locale=en), [Wilbur and array](http://codeforces.com/problemset/problem/596/B?locale=en), and [Alternative thinking](http://codeforces.com/problemset/problem/603/A?locale=en)|
 
-## Last year lectures
-| Date | Lecture | References | Problems |
-| ------------- | ------------- | ------------- | ------------- |
-| 02/12/2019 | Greedy Algorithms: Boxes and Hero | [Rossano's notes\*](notes/Greedy2.pdf). [Boxes and Hero](https://codeforces.com/blog/entry/63533). Huffman code: [Section 7.4 in Notes by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf) (optional). | [Lexicographically maximum subsequence](http://codeforces.com/problemset/problem/196/A?locale=en), [Woodcutters](http://codeforces.com/contest/545/problem/C?locale=en), and [Queue](http://codeforces.com/problemset/problem/141/C?locale=en) |
-| 03/12/2019 | Graph algorithms: BFS, DFS, and Topological Sort | [Rossano's notes\*](notes/Graph1.pdf). [CCLR] Chapter 22 | [X total shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0), [IsBipartite](http://practice.geeksforgeeks.org/problems/bipartite-graph/1), and [Fox and names](http://codeforces.com/problemset/problem/510/C?locale=en) |
-| 09/12/2019  | Graph algorithms: Strongly Connected Components and Single-Source Shortest Path| [Rossano's notes\*](notes/Graph2.pdf). [CCLR] Chapters 22 and 23  | [Learning languages](http://codeforces.com/problemset/problem/277/A?locale=en) and [Checkposts](http://codeforces.com/problemset/problem/427/C?locale=en) |
-| 10/12/2019 | Graph algorithms: Minimum Spanning Tree (and Disjoint Sets data structures) | [Rossano's notes\*](notes/Graph3.pdf). [CCLR] Chapters 21 and 23. Kruskal: [code](https://github.com/spaghetti-source/algorithm/blob/master/graph/kruskal.cc), Disjoint Set: [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/) | [Minimum spanning tree](http://www.spoj.com/problems/MST/) |
-
-
 ## Lectures from past years
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
 | 2017 | Simulation of the exam |   | [Misha and forest](http://codeforces.com/problemset/problem/501/C?locale=en) |
-| 2018 | Centroid Decomposition of trees | Centroid Decomposition of trees: [here](https://medium.com/carpanese/an-illustrated-introduction-to-centroid-decomposition-8c1989d53308), [here](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree), [here](https://www.geeksforgeeks.org/centroid-decomposition-of-tree/), and [here](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/) | |
-| 2018 | String algorithms: Knuth-Morris-Pratt and Suffix array | Knuth-Morris-Pratt from [CLRS] Chapter 32.3.  [Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm). Optional: Rabin-Karp [here](notes/StringMatching.pdf) from *Algorithms on strings, trees, and sequences*, D. Gusfield, Cambridge university press, [here](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/), and [here](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm). Suffix Array: Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays). Optional: Suffix Array in linear time [here](https://www.cs.helsinki.fi/u/tpkarkka/publications/jacm05-revised.pdf)| [Longest prefix suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0) and [Shift the string](https://www.codechef.com/problems/TASHIFT) |
-| 2018 | String algorithms: LCP array, trie and ternary search trie | Computing LCP array: [Kasai *et al.*'s algorithm](web.cs.iastate.edu/~cs548/references/linear_lcp.pdf) and [here](http://www.geeksforgeeks.org/%C2%AD%C2%ADkasais-algorithm-for-construction-of-lcp-array-from-suffix-array/). [Ternary search trie](http://www.drdobbs.com/database/ternary-search-trees/184410528) and a [video](https://www.youtube.com/watch?v=CIGyewO7868). |   |
-| 2019 | Standard Template Library (STL) | [Slides](/slides/STL.pdf). [Tutorial](http://www.geeksforgeeks.org/the-c-standard-template-library-stl/) and [STL algorithms](http://www.geeksforgeeks.org/c-magicians-stl-algorithms/)  |  [Megacity](http://codeforces.com/problemset/problem/424/B?locale=en) ([solution](Solutions.md#Megacity)), [Find pair](http://codeforces.com/problemset/problem/160/C?locale=en) ([solution](Solutions.md#FindPair)), and [Two heaps](http://codeforces.com/problemset/problem/353/B?locale=en) ([solution](Solutions.md#TwoHeaps))|
-| 2019 | Standard Template Library (STL). Coding | [Slides](/slides/Coding1.pdf) | |
-| 2019 | Heavy-light Decomposition of trees. **This lecture is not mandatory.** | Heavy-light Decomposition of trees: [here](https://cp-algorithms.com/graph/hld.html), [here](http://wcipeg.com/wiki/Heavy-light_decomposition), and [here](https://blog.anudeep2011.com/heavy-light-decomposition/). | [QTREE](https://www.spoj.com/problems/QTREE/), [QTREE2](https://www.spoj.com/problems/QTREE2/), [QTREE3](https://www.spoj.com/problems/QTREE3/), [GOT](https://www.spoj.com/problems/GOT/), and [Chef and the tree](https://www.codechef.com/problems/CHEFTREE).|
-
+| 2017 | Centroid Decomposition of trees | Centroid Decomposition of trees: [here](https://medium.com/carpanese/an-illustrated-introduction-to-centroid-decomposition-8c1989d53308), [here](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree), [here](https://www.geeksforgeeks.org/centroid-decomposition-of-tree/), and [here](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/) | |
+| 2017 | String algorithms: Knuth-Morris-Pratt and Suffix array | Knuth-Morris-Pratt from [CLRS] Chapter 32.3.  [Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm). Optional: Rabin-Karp [here](notes/StringMatching.pdf) from *Algorithms on strings, trees, and sequences*, D. Gusfield, Cambridge university press, [here](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/), and [here](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm). Suffix Array: Tutorial and implementation: [here](http://cs97si.stanford.edu/suffix-array.pdf) and [here](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays). Optional: Suffix Array in linear time [here](https://www.cs.helsinki.fi/u/tpkarkka/publications/jacm05-revised.pdf)| [Longest prefix suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0) and [Shift the string](https://www.codechef.com/problems/TASHIFT) |
+| 2017 | String algorithms: LCP array, trie and ternary search trie | Computing LCP array: [Kasai *et al.*'s algorithm](web.cs.iastate.edu/~cs548/references/linear_lcp.pdf) and [here](http://www.geeksforgeeks.org/%C2%AD%C2%ADkasais-algorithm-for-construction-of-lcp-array-from-suffix-array/). [Ternary search trie](http://www.drdobbs.com/database/ternary-search-trees/184410528) and a [video](https://www.youtube.com/watch?v=CIGyewO7868). |   |
+| 2018 | Standard Template Library (STL) | [Slides](/slides/STL.pdf). [Tutorial](http://www.geeksforgeeks.org/the-c-standard-template-library-stl/) and [STL algorithms](http://www.geeksforgeeks.org/c-magicians-stl-algorithms/)  |  [Megacity](http://codeforces.com/problemset/problem/424/B?locale=en) ([solution](Solutions.md#Megacity)), [Find pair](http://codeforces.com/problemset/problem/160/C?locale=en) ([solution](Solutions.md#FindPair)), and [Two heaps](http://codeforces.com/problemset/problem/353/B?locale=en) ([solution](Solutions.md#TwoHeaps))|
+| 2018 | Standard Template Library (STL). Coding | [Slides](/slides/Coding1.pdf) | |
+| 2018 | Heavy-light Decomposition of trees. **This lecture is not mandatory.** | Heavy-light Decomposition of trees: [here](https://cp-algorithms.com/graph/hld.html), [here](http://wcipeg.com/wiki/Heavy-light_decomposition), and [here](https://blog.anudeep2011.com/heavy-light-decomposition/). | [QTREE](https://www.spoj.com/problems/QTREE/), [QTREE2](https://www.spoj.com/problems/QTREE2/), [QTREE3](https://www.spoj.com/problems/QTREE3/), [GOT](https://www.spoj.com/problems/GOT/), and [Chef and the tree](https://www.codechef.com/problems/CHEFTREE).|
+| 2019 | Greedy Algorithms: Boxes and Hero | [Rossano's notes\*](notes/Greedy2.pdf). [Boxes and Hero](https://codeforces.com/blog/entry/63533). Huffman code: [Section 7.4 in Notes by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf) (optional). | [Lexicographically maximum subsequence](http://codeforces.com/problemset/problem/196/A?locale=en), [Woodcutters](http://codeforces.com/contest/545/problem/C?locale=en), and [Queue](http://codeforces.com/problemset/problem/141/C?locale=en) |
+| 2019 | Graph algorithms: BFS, DFS, and Topological Sort | [Rossano's notes\*](notes/Graph1.pdf). [CCLR] Chapter 22 | [X total shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0), [IsBipartite](http://practice.geeksforgeeks.org/problems/bipartite-graph/1), and [Fox and names](http://codeforces.com/problemset/problem/510/C?locale=en) |
+| 2019 | Graph algorithms: Strongly Connected Components and Single-Source Shortest Path| [Rossano's notes\*](notes/Graph2.pdf). [CCLR] Chapters 22 and 23  | [Learning languages](http://codeforces.com/problemset/problem/277/A?locale=en) and [Checkposts](http://codeforces.com/problemset/problem/427/C?locale=en) |
+| 2019 | Graph algorithms: Minimum Spanning Tree (and Disjoint Sets data structures) | [Rossano's notes\*](notes/Graph3.pdf). [CCLR] Chapters 21 and 23. Kruskal: [code](https://github.com/spaghetti-source/algorithm/blob/master/graph/kruskal.cc), Disjoint Set: [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/) | [Minimum spanning tree](http://www.spoj.com/problems/MST/) |
 
 
 \* Notes marked with *"Rossano's notes"* are rough and non-exhaustive notes that I used while lecturing. Please use them just to have a list of the topics of each lecture and use other reported references to study these arguments.
