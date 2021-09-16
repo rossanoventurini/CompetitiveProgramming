@@ -81,7 +81,7 @@ If you wish to refresh your mind on basic Algorithms and Data Structures, I sug
 
 I strongly suggest you to watch the following video lectures as soon as possible.
 * [Insertion Sort and Merge Sort](https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-* [Heaps and Heap Sort](https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+* [Heaps and Heap Sort](https://www.youtube.com/watch?v=B7hVxCmfPtM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=4)
 * [Counting Sort, Radix Sort, Lower Bounds for Sorting](https://www.youtube.com/watch?v=Nz1KZXbghj8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=7)
 * [Binary Search Trees](https://www.youtube.com/watch?v=9Jry5-82I68&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=5)
 * [AVL trees](https://www.youtube.com/watch?v=FNeL18KsWPc&index=6&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
