@@ -109,6 +109,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   [Google's Code Jam](https://code.google.com/codejam/)
 *   [Topcoder](https://www.topcoder.com/)
 *   [Codeforces](http://codeforces.com/)
+*   [LeetCode](https://leetcode.com/)
 *   [Geeks for Geeks](http://www.geeksforgeeks.org/)
 *   [CodeChef - Data Structures and Algorithms links](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * Geeks for Geeks: [Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
