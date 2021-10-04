@@ -4,7 +4,7 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3)
+* Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3). Code is xufvi67
 * Lectures schedule: Monday 9-11 Room L1 and Wednesday 9-11 Room L1 -- ([Google Meet](https://meet.google.com/lookup/gwofm2ojnh))
 * Question time: After lectures or by appointment
 
@@ -126,6 +126,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 22/09/2021 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort |  | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E?locale=en) |
 | 27/09/2021 | Trees: representation, traversals, and Binary Search Tree| [Rossano's notes\*](notes/Trees.pdf). [CCLR] Chapters 10.4 and 12. | [Frogs and Mosquitoes](https://codeforces.com/contest/609/problem/F?locale=en) |
 | 29/09/2021 | Trees: representation, traversals, and Binary Search Tree| [Rossano's notes\*](notes/Trees.pdf). [Tree traversals](https://en.wikipedia.org/wiki/Tree_traversal). [Euler Tour](https://en.wikipedia.org/wiki/Euler_tour_technique).  [Two pointers technique](https://www.geeksforgeeks.org/two-pointers-technique/). | [Maximum path sum](http://practice.geeksforgeeks.org/problems/maximum-path-sum/1) ([solution](Solutions.md#MaximumPathSum)) and [Longest k-Good Segment](https://codeforces.com/contest/616/problem/D?locale=en) |
+| 04/10/2021 | Trees: representation, traversals, and Binary Search Tree |  | |
 
 
 ## Last year lectures
