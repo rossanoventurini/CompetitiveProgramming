@@ -4,7 +4,7 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3). Code is xufvi67
+* Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3). Code is **xufvi67**
 * Lectures schedule: Monday 9-11 Room L1 and Wednesday 9-11 Room L1 -- ([Google Meet](https://meet.google.com/lookup/gwofm2ojnh))
 * Question time: After lectures or by appointment
 
