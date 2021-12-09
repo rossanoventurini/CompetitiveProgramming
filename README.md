@@ -45,7 +45,8 @@ should be able to monitor your progresses.
 
 | Type | Date | Room |
 | ------------- | ------------- | ------------- |
-| Written/Lab | 02/09/2021 14:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
+| Written/Lab | 18/01/2022 9:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
+| Written/Lab | 03/02/2022 9:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
 
 ### Old Exams
 
