@@ -96,7 +96,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   Competitive Programming 4: The New Lower Bound of Programming Contests, Steven Halim, Felix Halim, ([here](https://cpbook.net/)) [HH]
 *   Guide to Competitive Programming: Learning and Improving Algorithms Through Contests. Second Edition, Antti Laaksonen,  Springer, 2020 ([here](https://www.springer.com/gp/book/9783030393564)) [L]
 *   The C++ Programming Language, 4th Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2013 ([Amazon](http://www.amazon.com/The-Programming-Language-4th-Edition/dp/0321563840/ref=dp_ob_image_bk))
-*   A tour of C++, 2nd Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2018 ([Amazon](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?keywords=a+tour+of+c%2B%2B&qid=1570692421&sr=8-1))
+*   A Tour of C++, 2nd Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2018 ([Amazon](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?keywords=a+tour+of+c%2B%2B&qid=1570692421&sr=8-1))
 *   The C++ Standard Library: A Tutorial and Reference, 2nd Edition, Nicolai M. Josuttis, Addison-Wesley Professional, 2012 ([Amazon](http://www.amazon.com/The-Standard-Library-Tutorial-Reference/dp/0321623215/ref=pd_sim_14_11?ie=UTF8&refRID=1M156BZ8BPE95NBSP5PN))
 
 
