@@ -5,7 +5,7 @@
 * Period: First semester
 * Language: English
 * Classroom: [here](https://classroom.google.com/u/1/c/Mzg3NjA4MTAzNjM3). Code is **xufvi67**
-* Lectures schedule: Monday 9-11 Room L1 and Wednesday 9-11 Room L1 -- (Google Meet, link on our classroom)
+* Lectures schedule: Monday 9-11 Room L1 and Thursday 9-11 Room L1 -- (Google Meet, link on our classroom)
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
@@ -45,7 +45,6 @@ should be able to monitor your progresses.
 
 | Type | Date | Room |
 | ------------- | ------------- | ------------- |
-| Written/Lab | 18/01/2022 9:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
 | Written/Lab | 03/02/2022 9:00 | [Google Meet](https://meet.google.com/lookup/gitaxagnei) | 
 
 ### Old Exams
@@ -95,10 +94,16 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   Programming Challenges: The Programming Contest Training Manual, Steven S. Skiena, Miguel A. Revilla, Springer, 2003 ([Amazon](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638)) [SR]
 *   Competitive Programming 4: The New Lower Bound of Programming Contests, Steven Halim, Felix Halim, ([here](https://cpbook.net/)) [HH]
 *   Guide to Competitive Programming: Learning and Improving Algorithms Through Contests. Second Edition, Antti Laaksonen,  Springer, 2020 ([here](https://www.springer.com/gp/book/9783030393564)) [L]
+### Rust
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch05-00-structs.html)
+* [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
+* [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
+* [Rust users forum](https://users.rust-lang.org/)
+* [Rustlings](https://github.com/rust-lang/rustlings)
+### C++
 *   The C++ Programming Language, 4th Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2013 ([Amazon](http://www.amazon.com/The-Programming-Language-4th-Edition/dp/0321563840/ref=dp_ob_image_bk))
 *   A Tour of C++, 2nd Edition, Bjarne Stroustrup, Addison-Wesley Professional, 2018 ([Amazon](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?keywords=a+tour+of+c%2B%2B&qid=1570692421&sr=8-1))
 *   The C++ Standard Library: A Tutorial and Reference, 2nd Edition, Nicolai M. Josuttis, Addison-Wesley Professional, 2012 ([Amazon](http://www.amazon.com/The-Standard-Library-Tutorial-Reference/dp/0321623215/ref=pd_sim_14_11?ie=UTF8&refRID=1M156BZ8BPE95NBSP5PN))
-
 
 ## Useful links
 *   Erik D Demaine, Srini Devadas, Nancy Ann Lynch, ["MIT  Design and Analysis of Algorithms"](http://stellar.mit.edu/S/course/6/sp15/6.046J/), MIT Algorithm course which includes video lectures
@@ -117,11 +122,14 @@ I strongly suggest you to watch the following video lectures as soon as possible
 * Geeks for Geeks: [Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 *   [List](http://codeforces.com/blog/entry/23054) of resources for competitive programming
 
-
 ## Lectures
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-| 13/09/2021 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
+| 15/09/2022 | Introduction | [Slides](/slides/Introduction.pdf) | [Leaders in array](http://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) ([solution](Solutions.md#Leaders)), [Kadane's algorithm](http://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ([solution](Solutions.md#Kadane)), [Missing number in array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0) ([solution](Solutions.md#Number)), [Trapping rain water](http://practice.geeksforgeeks.org/problems/trapping-rain-water/0) ([solution](Solutions.md#Water)), and [Sliding window maximum](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0) ([solution](Solutions.md#Sliding)) |
+
+## Last year Lectures
+| Date | Lecture | References | Problems |
+| ------------- | ------------- | ------------- | ------------- |
 | 15/09/2021 | Solutions of Trapping rain water and Sliding window maximum | [Rossano's notes*](/notes/SlidingWindowMaximum.pdf) | [Next larger element](http://practice.geeksforgeeks.org/problems/next-larger-element/0) ([solution](Solutions.md#Next)), [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers)), and [Finding Team Member](http://codeforces.com/problemset/problem/579/B?locale=en) ([solution](Solutions.md#FindingTeamMember))|
 | 20/09/2021 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort | [Rossano's notes\*](notes/SearchingandSorting.pdf). [CCLR] Chapters 2.3, 7, and 8. [Binary search](http://www.geeksforgeeks.org/binary-search/). [Exponential search](http://www.geeksforgeeks.org/exponential-search/). [Interpolation search](http://www.geeksforgeeks.org/interpolation-search/) (optional) |  [Inversion count](http://www.spoj.com/problems/INVCNT/) ([solution](Solutions.md#InversionCount)) and [The Monkey and the Oiled Bamboo](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3183)|
 | 22/09/2021 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort |  | [Two Types of Spells](https://codeforces.com/contest/1398/problem/E?locale=en) |
