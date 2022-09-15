@@ -5,7 +5,7 @@
 * Period: First semester
 * Language: English
 * Classroom: [here](https://classroom.google.com/u/1/c/NTQ3NjY2MTA5NzI2). Code is **d77kira**
-* Lectures schedule: Monday 9-11 Room L1 and Thursday 9-11 Room L1 -- (Google Meet, link on our classroom)
+* Lectures schedule: Monday 9-11 Room C1 and Thursday 9-11 Room C1 -- (Google Meet, link on our classroom)
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
