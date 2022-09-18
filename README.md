@@ -118,6 +118,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   [LeetCode](https://leetcode.com/)
 *   [HackerRank](https://www.hackerrank.com/)
 *   [Geeks for Geeks](http://www.geeksforgeeks.org/)
+*   [LeetCode](https://leetcode.com/)
 *   [CodeChef - Data Structures and Algorithms links](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * Geeks for Geeks: [Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 *   [List](http://codeforces.com/blog/entry/23054) of resources for competitive programming
