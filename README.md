@@ -21,18 +21,16 @@ The course will provide the opportunity of
 * getting in touch with some big companies for internships, scholarships, or thesis proposals.
 
 ## Exam
-We will have a "written" exam in which you are asked to implement in C++ a solution for a problem.
-Then, a oral exam will test your understanding of the topics covered by the course. 
+See [slides](/slides/Introduction.pdf)
 
 Extra points for
-* active participation to our Google group
+* active participation
 * serious participation to online contests, e.g., CodeForces, TopCoder, Hacker
 Rank, Google Code Jam, ...
 * successful interview with a big company
 
 Implementing solutions for the problems of each lecture is strongly recommended 
-to improve your problem solving skill, to practice with C++, and toprepere yourself for the 
-written exam. 
+to improve your problem solving skill and to practice with Rust. 
 
 I recommend you to create a [github](http://github.com) repository to collect all your
 solutions and their descriptions.
@@ -71,7 +69,7 @@ fine for the first problems and for most difficult ones. In any case, make sure
 you really understand the solution and the properties it is exploiting!
 * Write a brief description of your solution in English. Provide an analysis of
 its time and space complexity.
-* Implement your own solution in C++.
+* Implement your own solution.
 * Submit your implementation to the problem's site. Fix it until it passes all
 the tests.
 * Always compare your solution and your implementation with existing ones.
