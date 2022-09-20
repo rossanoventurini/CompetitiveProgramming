@@ -21,7 +21,7 @@ The course will provide the opportunity of
 * getting in touch with some big companies for internships, scholarships, or thesis proposals.
 
 ## Exam
-See [slides](/slides/Introduction.pdf)
+See these [slides](/slides/Introduction.pdf).
 
 Extra points for
 * active participation
