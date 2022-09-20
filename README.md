@@ -94,6 +94,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 *   Guide to Competitive Programming: Learning and Improving Algorithms Through Contests. Second Edition, Antti Laaksonen,  Springer, 2020 ([here](https://www.springer.com/gp/book/9783030393564)) [L]
 ### Rust
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch05-00-structs.html)
+  - [Videos](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 * [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 * [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 * [Rust users forum](https://users.rust-lang.org/)
