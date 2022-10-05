@@ -130,6 +130,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 22/09/2022 | Analysis and correctness of Sliding window maximum. Brief introduction to Rust.| | [**Next greater element**](https://leetcode.com/problems/next-greater-element-ii/) and [Towers](http://codeforces.com/problemset/problem/37/A?locale=en) ([solution](Solutions.md#Towers))|
 | 29/09/2022 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort | [Rossano's notes\*](notes/SearchingandSorting.pdf). [CCLR] Chapters 2.3, 7, and 8. [Binary search](http://www.geeksforgeeks.org/binary-search/). [Exponential search](http://www.geeksforgeeks.org/exponential-search/). [Interpolation search](http://www.geeksforgeeks.org/interpolation-search/) (optional) | [**The Monkey and the Oiled Bamboo**](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3183)|
 | 03/10/2022 | Searching and Sorting: Binary Search, Merge Sort, QuickSort, Counting Sort, and Radix Sort |  |  [**Inversion count**]([https://leetcode.com/problems/global-and-local-inversions/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)) and [Two Types of Spells](https://codeforces.com/contest/1398/problem/E?locale=en) |
+| 05/10/2022 | [**Hands-On 1**](handson/handson01/README.md). Deadline: 19/10/2022 |  |  |
 
 ## Last year Lectures
 | Date | Lecture | References | Problems |
