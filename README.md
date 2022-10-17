@@ -133,12 +133,12 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 05/10/2022 | [**Hands-On 1**](handson/handson01/README.md). Deadline: 19/10/2022 |  |  |
 | 10/10/2022 | Trees: representation, traversals, and Binary Search Tree| [Rossano's notes\*](notes/Trees.pdf). [CCLR] Chapters 10.4 and 12. | [**Frogs and Mosquitoes**](https://codeforces.com/contest/609/problem/F?locale=en) |
 | 13/10/2022 | Lecture Cancelled! |  |  |
+| 17/10/2022 | Trees: representation, traversals, and Binary Search Tree| [Rossano's notes\*](notes/Trees.pdf). [Tree traversals](https://en.wikipedia.org/wiki/Tree_traversal). | [Maximum path sum](http://practice.geeksforgeeks.org/problems/maximum-path-sum/1) ([solution](Solutions.md#MaximumPathSum)) and [Longest k-Good Segment](https://codeforces.com/contest/616/problem/D?locale=en) |
 
 ## Last year Lectures
 | Date | Lecture | References | Problems |
 | ------------- | ------------- | ------------- | ------------- |
-| 29/09/2021 | Trees: representation, traversals, and Binary Search Tree| [Rossano's notes\*](notes/Trees.pdf). [Tree traversals](https://en.wikipedia.org/wiki/Tree_traversal). [Euler Tour](https://en.wikipedia.org/wiki/Euler_tour_technique).  [Two pointers technique](https://www.geeksforgeeks.org/two-pointers-technique/). | [Maximum path sum](http://practice.geeksforgeeks.org/problems/maximum-path-sum/1) ([solution](Solutions.md#MaximumPathSum)) and [Longest k-Good Segment](https://codeforces.com/contest/616/problem/D?locale=en) |
-| 04/10/2021 | Trees: representation, traversals, and Binary Search Tree |  | |
+| 04/10/2021 | Trees: representation, traversals, and Binary Search Tree | [Euler Tour](https://en.wikipedia.org/wiki/Euler_tour_technique).  [Two pointers technique](https://www.geeksforgeeks.org/two-pointers-technique/). | |
 | 06/10/2021 | Lecture cancelled |  | |
 | 11/10/2021 | (Static) Prefix sum | [Rossano's notes\*](notes/PrefixSums.pdf) | [Ilya and Queries](http://codeforces.com/problemset/problem/313/B?locale=en) ([solution](Solutions.md#IlyaandQueries)), [Number of ways](http://codeforces.com/problemset/problem/466/C?locale=en) ([solution](Solutions.md#NumberWays)), and  [Little girl and maximum sum](http://codeforces.com/problemset/problem/276/C?locale=en) ([solution](Solutions.md#LittleGirl))|
 | 13/10/2021 | Prefix sum: Binary Indexed Tree (aka BIT or Fenwick tree) | [Rossano's notes\*](notes/PrefixSums.pdf). BIT: [description](https://en.wikipedia.org/wiki/Fenwick_tree), [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#add), [video](https://www.youtube.com/watch?v=CWDQJGaN1gY), [visualgo](https://visualgo.net/fenwicktree), and [code](/code/fenwick_tree.hpp).| [Update the array](http://www.spoj.com/problems/UPDATEIT/) ([solution](Solutions.md#LittleGirl)) |
