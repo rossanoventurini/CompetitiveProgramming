@@ -140,7 +140,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 31/10/2022 | Segment trees: Applications |  | |
 | 03/11/2022 | Segment Trees: Lazy Propagation and Persistency | Segment Tree: [description](https://en.wikipedia.org/wiki/Segment_tree), [tutorial 1](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range), [tutorial 2](https://codeforces.com/blog/entry/15890), [tutorial 3](https://cp-algorithms.com/data_structures/segment_tree.html), [video](https://www.youtube.com/watch?v=ZBHKZF5w4YU&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=22), [visualgo](https://visualgo.net/en/segmenttree?slide=1), [slides](slides/segment_trees.pdf) and [code](/code/segment_trees). Lazy propagation: [tutorial](http://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/) and [video](https://www.youtube.com/watch?v=xuoQdt5pHj0&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=23).| [Circular RMQ](http://codeforces.com/problemset/problem/52/C)|
 | 07/11/2022 | Exercises | | Triplets ([Text](Exams/Text14022018.pdf) and [TestSet](Exams/TestSet14022018.zip)) and  **Smaller Values** ([Text](Exams/Text14012019.pdf) and [TestSet](Exams/TestSet14012019.zip)) |
-| 05/10/2022 | [**Hands-On 2**](handson/handson02/README.md). Deadline: 23/11/2022 |  |  |
+| 10/11/2022 | [**Hands-On 2**](handson/handson02/README.md). Deadline: 23/11/2022 |  |  |
 
 ## Last year Lectures
 | Date | Lecture | References | Problems |
