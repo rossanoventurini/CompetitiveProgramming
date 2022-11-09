@@ -107,6 +107,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 ## Useful links
 *   Erik D Demaine, Srini Devadas, Nancy Ann Lynch, ["MIT  Design and Analysis of Algorithms"](http://stellar.mit.edu/S/course/6/sp15/6.046J/), MIT Algorithm course which includes video lectures
 *   Tim Roughgarden, "[Algorithm specialization](https://www.coursera.org/specializations/algorithms)", Coursera
+*   [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/), Scaler Topics
 *   [Visualgo](https://visualgo.net/en): visualising data structures and algorithms through animation
 *   Geeks for Geeks: [Company interviews preparation](http://www.geeksforgeeks.org/company-preparation/)
 *   [Interviews common coding questions](http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
