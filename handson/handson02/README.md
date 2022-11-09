@@ -4,13 +4,14 @@
 In this hands-on, we are going to solve two problems with segment trees.
 For each problem, we have a pdf with the description of the problem and a set of tests to check the correctness of your implementations.
 
-- [Problem_01](./problem_01/text.pdf), [TestSet.zip](./problem_01/Testset.zip)
-- [Problem_02](./problem_02/text.pdf), [TestSet.zip](./problem_02/Testset.zip)
+- Problem *Min and Max*: [Text](./problem_01/text.pdf) and [TestSet.zip](./problem_01/Testset.zip)
+- Problem *Queries and Opearations*: [Text](./problem_02/text.pdf) and [TestSet.zip](./problem_02/Testset.zip)
 
 # Submission
 Submit 
 - a file ```lib.rs``` and a ```main.rs``` for each problem
-- a file ```Handson_02_solution_YOUR_NAME.pdf``` to [rossano.venturini@gmail.com](mailto:rossano.venturini@gmail.com) by 23/11/2022. 
+- a file ```Handson_02_solution_YOUR_NAME.pdf``` to [rossano.venturini@gmail.com](mailto:rossano.venturini@gmail.com) 
+by 23/11/2022. 
 
 - Source code ```lib.rs``` contains your solutions.
 - The ```main.rs``` file takes its input from stdin and produces its output to the stdout. This way we can use ```./solution < input1.txt | diff - output1.txt``` to compare its output with the expected one on the first test case.
