@@ -11,7 +11,6 @@ Submit
 - a file ```Handson_02_solution_YOUR_NAME.pdf``` to [rossano.venturini@gmail.com](mailto:rossano.venturini@gmail.com) 
 by 23/11/2022. 
 
-- Source code ```lib.rs``` contains your solutions.
 - The ```main.rs``` file takes its input from stdin and produces its output to the stdout. This way we can use ```./solution < input1.txt | diff - output1.txt``` to compare its output with the expected one on the first test case.
 - A report ```Handson_02_solution_YOUR_NAME.pdf``` that briefly describes your solutions, your implementations, and an analysis of their time and space complexities. Add references to 
 any relevant source you consulted to find your solutions or to develop their implementations. 
