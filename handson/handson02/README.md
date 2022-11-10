@@ -5,7 +5,7 @@ For each problem, we have a pdf with the description of the problem and a set of
 - Problem *Min and Max*: [Text](./problem_01/text.pdf) and [TestSet.zip](./problem_01/Testset.zip)
 - Problem *Queries and Opearations*: [Text](./problem_02/text.pdf) and [TestSet.zip](./problem_02/Testset.zip)
 
-# Submission
+## Submission
 Submit 
 - a file ```lib.rs``` and a ```main.rs``` for each problem
 - a file ```Handson_02_solution_YOUR_NAME.pdf``` to [rossano.venturini@gmail.com](mailto:rossano.venturini@gmail.com) 
