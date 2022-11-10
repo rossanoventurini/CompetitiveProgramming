@@ -1,6 +1,4 @@
-# Hands-on #1
- 
-## Sliding Window Maximum problem
+# Hands-on #01: Sliding Window Maximum problem
 In this hands-on, we are going to experiment with different solutions for the  *Sliding Window Maximum* problem. 
 Folder *sliding_window_maximum* contains two brute force implementations for this problem, tests to check their correctness and 
 a file ```main.rs``` to compare their performance on vectors with different sizes.
