@@ -1,6 +1,4 @@
-# Hands-on #1
- 
-## Sliding Window Maximum problem
+# Hands-on #01: Sliding Window Maximum problem
 In this hands-on, we are going to experiment with different solutions for the  *Sliding Window Maximum* problem. 
 Folder *sliding_window_maximum* contains two brute force implementations for this problem, tests to check their correctness and 
 a file ```main.rs``` to compare their performance on vectors with different sizes.
@@ -92,7 +90,7 @@ We encourage you to **experiments with these three different optimization levels
 
 Performance are measured on randomly initialized vectors  (```gen_random_vector``` function in ```main.rs```). Think about the __best__ and the __worst__ input configurations for each of the proposed algorithms and measure their performance by adding customized inputs. What is the difference, in terms of execution time, between the best, the worst, and the average scenario? Write your considerations in your report. 
 
-# Submission
+## Submission
 Submit the file ```lib.rs``` and a file ```SWM_solution_YOUR_NAME.pdf``` to [rossano.venturini@gmail.com](mailto:rossano.venturini@gmail.com) by 19/10/2022. 
 
 - Source code ```lib.rs``` contains your implementations.
