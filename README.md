@@ -148,7 +148,7 @@ I strongly suggest you to watch the following video lectures as soon as possible
 | 28/11/2022 | Dynamic Programming:  0/1 Knapsack, Fractional knapsack, and Subset sum. | [Rossano's notes\*](notes/DynamicProgramming.md) (or [pdf](notes/DynamicProgramming.pdf)). 0/1 Knapsack problem: [tutorial](https://www.youtube.com/watch?v=8LusJS5-AGo) | [**Subset sum**](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) and [0-1 knapsack](https://www.spoj.com/problems/KNAPSACK/)|
 | 01/12/2022 | Dynamic Programming: Longest increasing subsequence and Coin change| [Rossano's notes\*](notes/DynamicProgramming.md) (or [pdf](notes/DynamicProgramming.pdf)) | [**Longest increasing subsequence**](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)|
 | 05/12/2022 | Dynamic Programming: Longest increasing subsequence, Longest bitonic subsequence, and Largest independent set on trees| [Rossano's notes\*](notes/DynamicProgramming.md) (or [pdf](notes/DynamicProgramming.pdf)) | [**Longest bitonic subsequence**](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0) |
-
+| 09/12/2022 | [**Hands-On 3**](handson/handson03/README.md). Deadline: 23/12/2022 |  |  |
 
 ## Lectures from past years
 | Date | Lecture | References | Problems |
