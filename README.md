@@ -1,13 +1,12 @@
 # Competitive Programming and Contests
 
-
-
-
+<br>
+<br>
+<br>
 **This page will be no longer updated. The new Web page is [here](https://rossanoventurini.github.io/competitive).**
-
-
-
-
+<br>
+<br>
+<br>
 
 * Teacher: [Rossano Venturini](http://pages.di.unipi.it/rossano)
 * CFU: 6
