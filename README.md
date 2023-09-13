@@ -1,5 +1,8 @@
 # Competitive Programming and Contests
 
+**This page will be no longer updated. The new Web page is [here](https://rossanoventurini.github.io/competitive)**
+
+
 * Teacher: [Rossano Venturini](http://pages.di.unipi.it/rossano)
 * CFU: 6
 * Period: First semester
