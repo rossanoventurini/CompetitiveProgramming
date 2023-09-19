@@ -1,6 +1,6 @@
 # Competitive Programming and Contests
 
-**This page will be no longer updated. The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).**
+**This page will no longer be updated. The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).**
 
 * Teacher: [Rossano Venturini](http://pages.di.unipi.it/rossano)
 * CFU: 6
@@ -11,7 +11,7 @@
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
-The goal of the course is to improve programming and problem solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
+The goal of the course is to improve programming and problem-solving skills of the students by facing them with difficult problems and by presenting the techniques that help their reasoning in the implementation of correct and efficient solutions.
 The importance of these skills has been recognized by the most important software companies worldwide, which evaluate candidates in their job interviews mostly by the ability in addressing such difficult problems (e.g., see [here](http://www.geeksforgeeks.org/company-preparation/)).
 
 A natural goal is to involve the students in the intellectual pleasure of programming and problem solving, also preparing them for the most important international online contests, such as [Topcoder](https://www.topcoder.com/), [Codeforces](Codeforces), [HackerRank](https://www.hackerrank.com/), [CodeChef](https://www.codechef.com/), [Facebook Hacker Cup](https://www.facebook.com/hackercup/), [Google Code Jam](https://code.google.com/codejam/) and so on, for internships in most important companies and their interviews.
