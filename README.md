@@ -1,6 +1,7 @@
-# Competitive Programming and Contests
+# This page will no longer be updated. The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).
 
-**This page will no longer be updated. The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).**
+
+# Competitive Programming and Contests
 
 * Teacher: [Rossano Venturini](http://pages.di.unipi.it/rossano)
 * CFU: 6
