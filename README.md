@@ -1,5 +1,4 @@
-# This page will no longer be updated. 
-# The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).
+# This page will no longer be updated. The new Web page is [here](https://pages.di.unipi.it/rossano/competitive/).
 
 
 # Competitive Programming and Contests
