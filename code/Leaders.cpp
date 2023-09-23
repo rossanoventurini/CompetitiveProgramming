@@ -10,7 +10,7 @@ void print_leaders(std::vector<int> const& vec) {
     int max = vec.back();
     leaders.push_back(max); // last element is always a leader
     for (auto it = vec.rbegin() + 1; it != vec.rend(); ++it) {
-        if (*it > max) {
+        if (*it >= max) {
             max = *it;
             leaders.push_back(max);
         }
